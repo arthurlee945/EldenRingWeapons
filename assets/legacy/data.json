@@ -1,0 +1,1883 @@
+{
+    "models":[
+    {
+      "id":"dagger",
+      "name":"Dagger",
+      "url":"../assets/models/dagger.fbx"
+    },
+    {
+      "id":"parryingdagger",
+      "name":"Parrying Dagger",
+      "url":"../assets/models/parryingdagger.fbx"
+    },
+    {
+      "id":"misericorde",
+      "name":"Misericorde",
+      "url":"../assets/models/misericorde.fbx"
+    },
+    {
+      "id":"greatknife",
+      "name":"Great Knife",
+      "url":"../assets/models/greatknife.fbx"
+    },
+    {
+      "id":"bloodstaineddagger",
+      "name":"Bloodstained Dagger",
+      "url":"../assets/models/bloodstaineddagger.fbx"
+    },
+    {
+      "id":"erdsteeldagger",
+      "name":"Erdsteel Dagger",
+      "url":"../assets/models/erdsteeldagger.fbx"
+    },
+    {
+      "id":"wakizashi",
+      "name":"Wakizashi",
+      "url":"../assets/models/wakizashi.fbx"
+    },
+    {
+      "id":"celebrantssickle",
+      "name":"Celebrant's Sickle",
+      "url":"../assets/models/celebrantssickle.fbx"
+    },
+    {
+      "id":"crystalknife",
+      "name":"Crystal Knife",
+      "url":"../assets/models/crystalknife.fbx"
+    },
+    {
+      "id":"scorpionsstinger",
+      "name":"Scorpion's Stinger",
+      "url":"../assets/models/scorpionsstinger.fbx"
+    },
+    {
+      "id":"cinquedea",
+      "name":"Cinquedea",
+      "url":"../assets/models/cinquedea.fbx"
+    },
+    {
+      "id":"glintstonekris",
+      "name":"Glintstone Kris",
+      "url":"../assets/models/glintstonekris.fbx"
+    },
+    {
+      "id":"reduvia",
+      "name":"Reduvia",
+      "url":"../assets/models/reduvia.fbx"
+    },
+    {
+      "id":"bladeofcalling",
+      "name":"Blade of Calling",
+      "url":"../assets/models/bladeofcalling.fbx"
+    },
+    {
+      "id":"blackknife",
+      "name":"Black Knife",
+      "url":"../assets/models/blackknife.fbx"
+    },
+    {
+      "id":"shortsword",
+      "name":"Short Sword",
+      "url":"../assets/models/shortsword.fbx"
+    },
+    {
+      "id":"longsword",
+      "name":"Longsword",
+      "url":"../assets/models/longsword.fbx"
+    },
+    {
+      "id":"broadsword",
+      "name":"Broadsword",
+      "url":"../assets/models/broadsword.fbx"
+    },
+    {
+      "id":"weatheredstraightsword",
+      "name":"Weathered Straight Sword",
+      "url":"../assets/models/weatheredstraightsword.fbx"
+    },
+    {
+      "id":"lordswornsstraightsword",
+      "name":"Lordsworn's Straight Sword",
+      "url":"../assets/models/lordswornsstraightsword.fbx"
+    },
+    {
+      "id":"noblesslendersword",
+      "name":"Noble's Slender Sword",
+      "url":"../assets/models/noblesslendersword.fbx"
+    },
+    {
+      "id":"canesword",
+      "name":"Cane Sword",
+      "url":"../assets/models/canesword.fbx"
+    },
+    {
+      "id":"warhawkstalon",
+      "name":"Warhawk's talon",
+      "url":"../assets/models/warhawkstalon.fbx"
+    },
+    {
+      "id":"lazuliglintstonesword",
+      "name":"Lazuli Glintstone Sword",
+      "url":"../assets/models/lazuliglintstonesword.fbx"
+    },
+    {
+      "id":"carianknightssword",
+      "name":"Carian Knight's Sword",
+      "url":"../assets/models/carianknightssword.fbx"
+    },
+    {
+      "id":"crystalsword",
+      "name":"cCrystal Sword",
+      "url":"../assets/models/crystalsword.fbx"
+    },
+    {
+      "id":"rottencrystalsword",
+      "name":"Rotten Crystal Sword",
+      "url":"../assets/models/crystalsword.fbx"
+    },
+    {
+      "id":"miquellanknightssword",
+      "name":"Miquellan Knight's Sword",
+      "url":"../assets/models/miquellanknightssword.fbx"
+    },
+    {
+      "id":"goldenepitaph",
+      "name":"Golden Epitaph",
+      "url":"../assets/models/goldenepitaph.fbx"
+    },
+    {
+      "id":"swordofsttrina",
+      "name":"Sword of St Trina",
+      "url":"../assets/models/swordofsttrina.fbx"
+    },
+    {
+      "id":"regaliaofeochaid",
+      "name":"Regalia of Eochaid",
+      "url":"../assets/models/regaliaofeochaid.fbx"
+    },
+    {
+      "id":"codedsword",
+      "name":"Coded Sword",
+      "url":"../assets/models/codedsword.fbx"
+    },
+    {
+      "id":"swordofnightandflame",
+      "name":"Sword of Night and Flame",
+      "url":"../assets/models/swordofnightandflame.fbx"
+    },
+    {
+      "id":"bastardsword",
+      "name":"Bastard Sword",
+      "url":"../assets/models/bastardsword.fbx"
+    },
+    {
+      "id":"claymore",
+      "name":"Claymore",
+      "url":"../assets/models/claymore.fbx"
+    },
+    {
+      "id":"irongreatsword",
+      "name":"Iron Greatsword",
+      "url":"../assets/models/irongreatsword.fbx"
+    },
+    {
+      "id":"lordswornsgreatsword",
+      "name":"Lordsworn's Greatsword",
+      "url":"../assets/models/lordswornsgreatsword.fbx"
+    },
+    {
+      "id":"knightsgreatsword",
+      "name":"Knight's Greatsword",
+      "url":"../assets/models/knightsgreatsword.fbx"
+    },
+    {
+      "id":"banishedknightsgreatsword",
+      "name":"Banished Knight's Greatsword",
+      "url":"../assets/models/banishedknightsgreatsword.fbx"
+    },
+    {
+      "id":"forkedgreatsword",
+      "name":"Forked Greatsword",
+      "url":"../assets/models/forkedgreatsword.fbx"
+    },
+    {
+      "id":"flamberge",
+      "name":"Flamberge",
+      "url":"../assets/models/flamberge.fbx"
+    },
+    {
+      "id":"gargoylesgreatsword",
+      "name":"Gargoyle's Greatsword",
+      "url":"../assets/models/gargoylesgreatsword.fbx"
+    },
+    {
+      "id":"gargoylesgreatswordv2",
+      "name":"Gargoyle's Blackblade",
+      "url":"../assets/models/gargoylesgreatswordv2.fbx"
+    },
+    {
+      "id":"inseparablesword",
+      "name":"Inseparable Sword",
+      "url":"../assets/models/inseparablesword.fbx"
+    },
+    {
+      "id":"inseparableswordv2",
+      "name":"Inseparable Sword V2",
+      "url":"../assets/models/inseparableswordv2.fbx"
+    },
+    {
+      "id":"swordofmilos",
+      "name":"Sword of Milos",
+      "url":"../assets/models/swordofmilos.fbx"
+    },
+    {
+      "id":"maraisexecutionerssword",
+      "name":"Marais Executioner's Sword",
+      "url":"../assets/models/maraisexecutionerssword.fbx"
+    },
+    {
+      "id":"ordovissgreatsword",
+      "name":"Ordovis's Greatsword",
+      "url":"../assets/models/ordovissgreatsword.fbx"
+    },
+    {
+      "id":"alabasterlordssword",
+      "name":"Alabaster Lord's Sword",
+      "url":"../assets/models/alabasterlordssword.fbx"
+    },
+    {
+      "id":"deathspoker",
+      "name":"Death's Poker",
+      "url":"../assets/models/deathspoker.fbx"
+    },
+    {
+      "id":"helphenssteeple",
+      "name":"Helphen's Steeple",
+      "url":"../assets/models/helphenssteeple.fbx"
+    },
+    {
+      "id":"blasphemousblade",
+      "name":"Blasphemous Blade",
+      "url":"../assets/models/blasphemousblade.fbx"
+    },
+    {
+      "id":"goldenordergreatsword",
+      "name":"Golden Order Greatsword",
+      "url":"../assets/models/goldenordergreatsword.fbx"
+    },
+    {
+      "id":"darkmoongreatsword",
+      "name":"Dark Moon Greatsword",
+      "url":"../assets/models/darkmoongreatsword"
+    },
+    {
+      "id":"sacredrelicsword",
+      "name":"Sacred Relic Sword",
+      "url":"../assets/models/sacredrelicsword.fbx"
+    },
+    {
+      "id":"zweihander",
+      "name":"Zweihander",
+      "url":"../assets/models/zweihander.fbx"
+    },
+    {
+      "id":"greatsword",
+      "name":"Greatsword",
+      "url":"../assets/models/greatsword.fbx"
+    },
+    {
+      "id":"watchdogsgreatsword",
+      "name":"Watchdog's Greatsword",
+      "url":"../assets/models/watchdogsgreatsword.fbx"
+    },
+    {
+      "id":"trollsgoldensword",
+      "name":"troll's Golden Sword",
+      "url":"../assets/models/trollsgoldensword.fbx"
+    },
+    {
+      "id":"trollknightssword",
+      "name":"Troll Knight's Sword",
+      "url":"../assets/models/trollknightssword.fbx"
+    },
+    {
+      "id":"royalgreatsword",
+      "name":"Royal Greatsword",
+      "url":"../assets/models/royalgreatsword.fbx"
+    },
+    {
+      "id":"graftedbladegreatsword",
+      "name":"Grafted Blade Greatsword",
+      "url":"../assets/models/graftedbladegreatsword.fbx"
+    },
+    {
+      "id":"ruinsgreatsword",
+      "name":"Ruins Greatsword",
+      "url":"../assets/models/ruinsgreatsword.fbx"
+    },
+    {
+      "id":"starscourgegreatsword",
+      "name":"Starscourge Greatsword",
+      "url":"../assets/models/starscourgegreatsword.fbx"
+    },
+    {
+      "id":"godslayersgreatsword",
+      "name":"Godslayer's Greatsword",
+      "url":"../assets/models/godslayersgreatsword.fbx"
+    },
+    {
+      "id":"malikethsblackblade",
+      "name":"Maliketh's Blackblade",
+      "url":"../assets/models/malikethsblackblade.fbx"
+    },
+    {
+      "id":"rapier",
+      "name":"Rapier",
+      "url":"../assets/models/rapier.fbx"
+    },
+    {
+      "id":"estoc",
+      "name":"Estoc",
+      "url":"../assets/models/estoc.fbx"
+    },
+    {
+      "id":"noblesestoc",
+      "name":"Noble's Estoc",
+      "url":"../assets/models/noblesestoc.fbx"
+    },
+    {
+      "id":"cleanrotknightssword",
+      "name":"Cleanrot Knight's Sword",
+      "url":"../assets/models/cleanrotknightssword.fbx"
+    },
+    {
+      "id":"rogiersrapier",
+      "name":"Rogier's Rapier",
+      "url":"../assets/models/rogiersrapier.fbx"
+    },
+    {
+      "id":"antspurrapier",
+      "name":"Antspur Rapier",
+      "url":"../assets/models/antspurrapier.fbx"
+    },
+    {
+      "id":"frozenneedle",
+      "name":"Frozen Needle",
+      "url":"../assets/models/frozenneedle.fbx"
+    },
+    {
+      "id":"greatepee",
+      "name":"Great Epee",
+      "url":"../assets/models/greatepee.fbx"
+    },
+    {
+      "id":"godskinstitcher",
+      "name":"Godskin Stitcher",
+      "url":"../assets/models/godskinstitcher.fbx"
+    },
+    {
+      "id":"bloodyhelice",
+      "name":"Bloody Helice",
+      "url":"../assets/models/bloodyhelice.fbx"
+    },
+    {
+      "id":"dragonkingscragblade",
+      "name":"Dragonking's Cragblade",
+      "url":"../assets/models/dragonkingscragblade.fbx"
+    },
+    {
+      "id":"scimitar",
+      "name":"Scimitar",
+      "url":"../assets/models/scimitar.fbx"
+    },
+    {
+      "id":"falchion",
+      "name":"Falchion",
+      "url":"../assets/models/falchion.fbx"
+    },
+    {
+      "id":"shamshir",
+      "name":"Shamshir",
+      "url":"../assets/models/shamshir.fbx"
+    },
+    {
+      "id":"grossmesser",
+      "name":"Grossmesser",
+      "url":"../assets/models/grossmesser.fbx"
+    },
+    {
+      "id":"banditscurvedsword",
+      "name":"Bandit's Curved Sword",
+      "url":"../assets/models/banditscurvedsword.fbx"
+    },
+    {
+      "id":"shotel",
+      "name":"Shotel",
+      "url":"../assets/models/shotel.fbx"
+    },
+    {
+      "id":"scavengerscurvedsword",
+      "name":"Scavenger's Curved Sword",
+      "url":"../assets/models/scavengerscurvedsword.fbx"
+    },
+    {
+      "id":"mantisblade",
+      "name":"Mantis Blade",
+      "url":"../assets/models/mantisblade.fbx"
+    },
+    {
+      "id":"beastmanscurvedsword",
+      "name":"Beastman's Curved Sword",
+      "url":"../assets/models/beastmanscurvedsword.fbx"
+    },
+    {
+      "id":"flowingcurvedsword",
+      "name":"Flowing Curved Sword",
+      "url":"../assets/models/flowingcurvedsword.fbx"
+    },
+    {
+      "id":"serpentgodscurvedsword",
+      "name":"Serpent-God's Curved Sword",
+      "url":"../assets/models/serpentgodscurvedsword.fbx"
+    },
+    {
+      "id":"magmablade",
+      "name":"Magma Blade",
+      "url":"../assets/models/magmablade.fbx"
+    },
+    {
+      "id":"noxflowingsword",
+      "name":"Nox Flowing Sword",
+      "url":"../assets/models/noxflowingsword.fbx"
+    },
+    {
+      "id":"wingofastel",
+      "name":"Wing of Astel",
+      "url":"../assets/models/wingofastel.fbx"
+    },
+    {
+      "id":"eclipseshotel",
+      "name":"Eclipse Shotel",
+      "url":"../assets/models/eclipseshotel.fbx"
+    },
+    {
+      "id":"dismounter",
+      "name":"Dismounter",
+      "url":"../assets/models/dismounter.fbx"
+    },
+    {
+      "id":"omencleaver",
+      "name":"Omen Cleaver",
+      "url":"../assets/models/omencleaver.fbx"
+    },
+    {
+      "id":"monksflameblade",
+      "name":"Monk's Flameblade",
+      "url":"../assets/models/monksflameblade.fbx"
+    },
+    {
+      "id":"beastmanscleaver",
+      "name":"Beastman's Cleaver",
+      "url":"../assets/models/beastmanscleaver.fbx"
+    },
+    {
+      "id":"bloodhoundsfang",
+      "name":"Bloodhound's Fang",
+      "url":"../assets/models/bloodhoundsfang.fbx"
+    },
+    {
+      "id":"onyxlordsgreatsword",
+      "name":"Onyx Lord's Greatsword",
+      "url":"../assets/models/onyxlordsgreatsword.fbx"
+    },
+    {
+      "id":"zamorcurvedsword",
+      "name":"Zamor Curved Sword",
+      "url":"../assets/models/zamorcurvedsword.fbx"
+    },
+    {
+      "id":"magmawyrmsscalesword",
+      "name":"Magma Wyrm's Scalesword",
+      "url":"../assets/models/magmawyrmsscalesword.fbx"
+    },
+    {
+      "id":"morgottscursedsword",
+      "name":"Morgott's Cursed Sword",
+      "url":"../assets/models/morgottscursedsword.fbx"
+    },
+    {
+      "id":"uchigatana",
+      "name":"Uchigatana",
+      "url":"../assets/models/uchigatana.fbx"
+    },
+    {
+      "id":"nagakiba",
+      "name":"Nagakiba",
+      "url":"../assets/models/nagakiba.fbx"
+    },
+    {
+      "id":"serpentboneblade",
+      "name":"Serpentbone Blade",
+      "url":"../assets/models/serpentboneblade.fbx"
+    },
+    {
+      "id":"meteoricoreblade",
+      "name":"Meteoric Ore Blade",
+      "url":"../assets/models/meteoricoreblade.fbx"
+    },
+    {
+      "id":"moonveil",
+      "name":"Moonveil",
+      "url":"../assets/models/moonveil.fbx"
+    },
+    {
+      "id":"riversofblood",
+      "name":"Rivers of Blood",
+      "url":"../assets/models/riversofblood.fbx"
+    },
+    {
+      "id":"dragonscaleblade",
+      "name":"Dragon Scale Blade",
+      "url":"../assets/models/dragonscaleblade.fbx"
+    },
+    {
+      "id":"handofmalenia",
+      "name":"Hand of Malenia",
+      "url":"../assets/models/handofmalenia.fbx"
+    },
+    {
+      "id":"twinblade",
+      "name":"Twinblade",
+      "url":"../assets/models/twinblade.fbx"
+    },
+    {
+      "id":"twinnedknightswords",
+      "name":"Twinned Knight Swords",
+      "url":"../assets/models/twinnedknightswords.fbx"
+    },
+    {
+      "id":"godskinpeeler",
+      "name":"Godskin Peeler",
+      "url":"../assets/models/godskinpeeler.fbx"
+    },
+    {
+      "id":"gargoylestwinblade",
+      "name":"Gargoyle's Twinblade",
+      "url":"../assets/models/gargoylestwinblade.fbx"
+    },
+    {
+      "id":"gargoylestwinbladev2",
+      "name":"Gargoyle's Black Blades",
+      "url":"../assets/models/gargoylestwinbladev2.fbx"
+    },
+    {
+      "id":"eleonoraspoleblade",
+      "name":"Eleonora's Poleblade",
+      "url":"../assets/models/eleonoraspoleblade.fbx"
+    },
+    {
+      "id":"handaxe",
+      "name":"Hand Axe",
+      "url":"../assets/models/handaxe.fbx"
+    },
+    {
+      "id":"forkedhatchet",
+      "name":"Forked Hatchet",
+      "url":"../assets/models/forkedhatchet.fbx"
+    },
+    {
+      "id":"battleaxe",
+      "name":"Battle Axe",
+      "url":"../assets/models/battleaxe.fbx"
+    },
+    {
+      "id":"warpedaxe",
+      "name":"Warped Axe",
+      "url":"../assets/models/warpedaxe.fbx"
+    },
+    {
+      "id":"jawboneaxe",
+      "name":"Jawbone Axe",
+      "url":"../assets/models/jawboneaxe.fbx"
+    },
+    {
+      "id":"ironcleaver",
+      "name":"Iron Cleaver",
+      "url":"../assets/models/ironcleaver.fbx"
+    },
+    {
+      "id":"highlandaxe",
+      "name":"Highland Axe",
+      "url":"../assets/models/highlandaxe.fbx"
+    },
+    {
+      "id":"celebrantscleaver",
+      "name":"Celebrant's Cleaver",
+      "url":"../assets/models/celebrantscleaver.fbx"
+    },
+    {
+      "id":"sacrificialaxe",
+      "name":"Sacrificial Axe",
+      "url":"../assets/models/sacrificialaxe.fbx"
+    },
+    {
+      "id":"icerindhatchet",
+      "name":"Icerind Hatchet",
+      "url":"../assets/models/icerindhatchet.fbx"
+    },
+    {
+      "id":"rippleblade",
+      "name":"Ripple Blade",
+      "url":"../assets/models/rippleblade.fbx"
+    },
+    {
+      "id":"stormhawkaxe",
+      "name":"Stormhawk Axe",
+      "url":"../assets/models/stormhawkaxe.fbx"
+    },
+    {
+      "id":"rosusaxe",
+      "name":"Rosus' Axe",
+      "url":"../assets/models/rosusaxe.fbx"
+    },
+    {
+      "id":"greataxe",
+      "name":"Great Axe",
+      "url":"../assets/models/greataxe.fbx"
+    },
+    {
+      "id":"crescentmoonaxe",
+      "name":"Crescent Moon Axe",
+      "url":"../assets/models/crescentmoonaxe.fbx"
+    },
+    {
+      "id":"longhaftaxe",
+      "name":"Longhaft Axe",
+      "url":"../assets/models/longhaftaxe.fbx"
+    },
+    {
+      "id":"executionersgreataxe",
+      "name":"Executioner's Great Axe",
+      "url":"../assets/models/executionersgreataxe.fbx"
+    },
+    {
+      "id":"greatomenkillercleaver",
+      "name":"Great Omenkiller Cleaver",
+      "url":"../assets/models/greatomenkillercleaver.fbx"
+    },
+    {
+      "id":"rustedanchor",
+      "name":"Rusted Anchor",
+      "url":"../assets/models/rustedanchor.fbx"
+    },
+    {
+      "id":"butcheringknife",
+      "name":"Butchering Knife",
+      "url":"../assets/models/butcheringknife.fbx"
+    },
+    {
+      "id":"gargoylesgreataxe",
+      "name":"gargoyle's Great Axe",
+      "url":"../assets/models/gargoylesgreataxe.fbx"
+    },
+    {
+      "id":"gargoylesgreataxev2",
+      "name":"Gargoyle's Black Axe",
+      "url":"../assets/models/gargoylesgreataxev2.fbx"
+    },
+    {
+      "id":"wingedgreathorn",
+      "name":"Winged Greathorn",
+      "url":"../assets/models/wingedgreathorn.fbx"
+    },
+    {
+      "id":"axeofgodrick",
+      "name":"Axe of Godrick",
+      "url":"../assets/models/axeofgodrick.fbx"
+    },
+    {
+      "id":"club",
+      "name":"club",
+      "url":"../assets/models/club.fbx"
+    },
+    {
+      "id":"curvedclub",
+      "name":"Curved Club",
+      "url":"../assets/models/curvedclub.fbx"
+    },
+    {
+      "id":"spikedclub",
+      "name":"Spiked Club",
+      "url":"../assets/models/spikedclub.fbx"
+    },
+    {
+      "id":"stoneclub",
+      "name":"Stone Club",
+      "url":"../assets/models/stoneclub.fbx"
+    },
+    {
+      "id":"mace",
+      "name":"Mace",
+      "url":"../assets/models/mace.fbx"
+    },
+    {
+      "id":"morningstar",
+      "name":"Morning Star",
+      "url":"../assets/models/morningstar.fbx"
+    },
+    {
+      "id":"warpick",
+      "name":"Warpick",
+      "url":"../assets/models/warpick.fbx"
+    },
+    {
+      "id":"hammer",
+      "name":"Hammer",
+      "url":"../assets/models/hammer.fbx"
+    },
+    {
+      "id":"monksflamemace",
+      "name":"Monk's Flamemace",
+      "url":"../assets/models/monksflamemace.fbx"
+    },
+    {
+      "id":"varresbouquet",
+      "name":"Varre's Bouquet",
+      "url":"../assets/models/varresbouquet.fbx"
+    },
+    {
+      "id":"envoyshorn",
+      "name":"Envoy's Horn",
+      "url":"../assets/models/envoyshorn.fbx"
+    },
+    {
+      "id":"noxflowinghammer",
+      "name":"Nox Flowing Hammer",
+      "url":"../assets/models/noxflowinghammer.fbx"
+    },
+    {
+      "id":"ringedfinger",
+      "name":"Ringed Finger",
+      "url":"../assets/models/ringedfinger"
+    },
+    {
+      "id":"scepterofallkowing",
+      "name":"Scepter of All-Knowing",
+      "url":"../assets/models/scepterofallkowing.fbx"
+    },
+    {
+      "id":"marikashammer",
+      "name":"Marika's Hammer",
+      "url":"../assets/models/marikashammer.fbx"
+    },
+    {
+      "id":"flail",
+      "name":"Flail",
+      "url":"../assets/models/flail.fbx"
+    },
+    {
+      "id":"nightriderflail",
+      "name":"Nightrider Flail",
+      "url":"../assets/models/nightriderflail.fbx"
+    },
+    {
+      "id":"chainlinkflail",
+      "name":"Chainlink Flail",
+      "url":"../assets/models/chainlinkflail.fbx"
+    },
+    {
+      "id":"familyheads",
+      "name":"Family Heads",
+      "url":"../assets/models/familyheads.fbx"
+    },
+    {
+      "id":"bastardsstars",
+      "name":"Bastard's Stars",
+      "url":"../assets/models/bastardsstars.fbx"
+    },
+    {
+      "id":"largeclub",
+      "name":"Large Club",
+      "url":"../assets/models/largeclub.fbx"
+    },
+    {
+      "id":"curvedgreatclub",
+      "name":"Curved Great Club",
+      "url":"../assets/models/curvedgreatclub.fbx"
+    },
+    {
+      "id":"greatmace",
+      "name":"Great Mace",
+      "url":"../assets/models/greatmace.fbx"
+    },
+    {
+      "id":"pickaxe",
+      "name":"Pickaxe",
+      "url":"../assets/models/pickaxe.fbx"
+    },
+    {
+      "id":"brickhammer",
+      "name":"Brick Hammer",
+      "url":"../assets/models/brickhammer.fbx"
+    },
+    {
+      "id":"battlehammer",
+      "name":"Battle Hammer",
+      "url":"../assets/models/battlehammer.fbx"
+    },
+    {
+      "id":"rottenbattlehammer",
+      "name":"Rotten Battle Hammer",
+      "url":"../assets/models/battlehammerv2.fbx"
+    },
+    {
+      "id":"celebrantsskull",
+      "name":"Celebrant's Skull",
+      "url":"../assets/models/celebrantsskull.fbx"
+    },
+    {
+      "id":"greatstars",
+      "name":"Great Stars",
+      "url":"../assets/models/greatstars.fbx"
+    },
+    {
+      "id":"greathornhammer",
+      "name":"Greathorn Hammer",
+      "url":"../assets/models/greathornhammer.fbx"
+    },
+    {
+      "id":"envoyslonghorn",
+      "name":"Envoy's Longhorn",
+      "url":"../assets/models/envoyslonghorn.fbx"
+    },
+    {
+      "id":"cranialvesselcandlestand",
+      "name":"Cranial Vessel Candlestand",
+      "url":"../assets/models/cranialvesselcandlestand.fbx"
+    },
+    {
+      "id":"beastclawgreathammer",
+      "name":"Beastclaw Greathammer",
+      "url":"../assets/models/beastclawgreathammer.fbx"
+    },
+    {
+      "id":"devourersscepter",
+      "name":"Devourer's Scepter",
+      "url":"../assets/models/devourersscepter.fbx"
+    },
+    {
+      "id":"duelistgreataxe",
+      "name":"Duelist Greataxe",
+      "url":"../assets/models/duelistgreataxe.fbx"
+    },
+    {
+      "id":"rottengreataxe",
+      "name":"Rotten GreatAxe",
+      "url":"../assets/models/duelistgreataxev2.fbx"
+    },
+    {
+      "id":"golemshalberd",
+      "name":"Golem's Halberd",
+      "url":"../assets/models/golemshalberd.fbx"
+    },
+    {
+      "id":"giantcrusher",
+      "name":"Giant Crusher",
+      "url":"../assets/models/giantcrusher.fbx"
+    },
+    {
+      "id":"prelatesinfernocrozier",
+      "name":"Prelate's Inferno Crozier",
+      "url":"../assets/models/prelatesinfernocrozier.fbx"
+    },
+    {
+      "id":"greatclub",
+      "name":"Great Club",
+      "url":"../assets/models/greatclub.fbx"
+    },
+    {
+      "id":"trollshammer",
+      "name":"Troll's Hammer",
+      "url":"../assets/models/trollshammer.fbx"
+    },
+    {
+      "id":"dragongreatclaw",
+      "name":"Dragon Greatclaw",
+      "url":"../assets/models/dragongreatclaw.fbx"
+    },
+    {
+      "id":"watchdogsstaff",
+      "name":"Watchdog's Staff",
+      "url":"../assets/models/watchdogsstaff.fbx"
+    },
+    {
+      "id":"staffoftheavatar",
+      "name":"Staff of The Avatar",
+      "url":"../assets/models/staffoftheavatar.fbx"
+    },
+    {
+      "id":"rottenstaff",
+      "name":"Rotten Staff",
+      "url":"../assets/models/rottenstaff.fbx"
+    },
+    {
+      "id":"envoysgreathorn",
+      "name":"Envoy's Greathorn",
+      "url":"../assets/models/envoysgreathorn.fbx"
+    },
+    {
+      "id":"ghizaswheel",
+      "name":"Ghiza's Wheel",
+      "url":"../assets/models/ghizaswheel.fbx"
+    },
+    {
+      "id":"fallingstarbeastjaw",
+      "name":"Fallingstar Beast Jaw",
+      "url":"../assets/models/fallingstarbeastjaw.fbx"
+    },
+    {
+      "id":"axeofgodfrey",
+      "name":"Axe of Godfrey",
+      "url":"../assets/models/axeofgodfrey.fbx"
+    },
+    {
+      "id":"shortspear",
+      "name":"Short Spear",
+      "url":"../assets/models/shortspear.fbx"
+    },
+    {
+      "id":"ironspear",
+      "name":"Iron Spear",
+      "url":"../assets/models/ironspear.fbx"
+    },
+    {
+      "id":"spear",
+      "name":"Spear",
+      "url":"../assets/models/spear.fbx"
+    },
+    {
+      "id":"partisan",
+      "name":"Partisan",
+      "url":"../assets/models/partisan.fbx"
+    },
+    {
+      "id":"pike",
+      "name":"Pike",
+      "url":"../assets/models/pike.fbx"
+    },
+    {
+      "id":"spikedspear",
+      "name":"Spiked Spear",
+      "url":"../assets/models/spikedspear.fbx"
+    },
+    {
+      "id":"crossnaginata",
+      "name":"Cross-Naginata",
+      "url":"../assets/models/crossnaginata.fbx"
+    },
+    {
+      "id":"claymansharpoon",
+      "name":"Clayman's Harpoon",
+      "url":"../assets/models/claymansharpoon.fbx"
+    },
+    {
+      "id":"celebrantsribrake",
+      "name":"Celebrant's Rib-Rake",
+      "url":"../assets/models/celebrantsribrake.fbx"
+    },
+    {
+      "id":"torchpole",
+      "name":"Torchpole",
+      "url":"../assets/models/torchpole.fbx"
+    },
+    {
+      "id":"inquisitorsgirandole",
+      "name":"Inquisitor's Girandole",
+      "url":"../assets/models/inquisitorsgirandole.fbx"
+    },
+    {
+      "id":"crystalspear",
+      "name":"Crystal Spear",
+      "url":"../assets/models/crystalspear.fbx"
+    },
+    {
+      "id":"rottencrystalspear",
+      "name":"Rotten Crystal Spear",
+      "url":"../assets/models/crystalspear.fbx"
+    },
+    {
+      "id":"cleanrotspear",
+      "name":"Cleanrot Spear",
+      "url":"../assets/models/cleanrotspear.fbx"
+    },
+    {
+      "id":"deathritualspear",
+      "name":"Death Ritual Spear",
+      "url":"../assets/models/deathritualspear.fbx"
+    },
+    {
+      "id":"boltofgransax",
+      "name":"Bolt of Gransax",
+      "url":"../assets/models/boltofgransax.fbx"
+    },
+    {
+      "id":"wingedspear",
+      "name":"Winged Spear",
+      "url":"../assets/models/wingedspear.fbx"
+    },
+    {
+      "id":"lance",
+      "name":"Lance",
+      "url":"../assets/models/lance.fbx"
+    },
+    {
+      "id":"treespear",
+      "name":"Treespear",
+      "url":"../assets/models/treespear.fbx"
+    },
+    {
+      "id":"serpenthunter",
+      "name":"Serpent-Hunter",
+      "url":"../assets/models/serpenthunter.fbx"
+    },
+    {
+      "id":"siluriastree",
+      "name":"Siluria's Tree",
+      "url":"../assets/models/siluriastree.fbx"
+    },
+    {
+      "id":"vykeswarspear",
+      "name":"Vyke's War Spear",
+      "url":"../assets/models/vykeswarspear.fbx"
+    },
+    {
+      "id":"mohgwynssacredspear",
+      "name":"Mohgwyn's Sacred Spear",
+      "url":"../assets/models/mohgwynssacredspear.fbx"
+    },
+    {
+      "id":"halberd",
+      "name":"Halberd",
+      "url":"../assets/models/halberd.fbx"
+    },
+    {
+      "id":"banishedknightshalberd",
+      "name":"Banished Knight's Halberd",
+      "url":"../assets/models/banishedknightshalberd.fbx"
+    },
+    {
+      "id":"lucerne",
+      "name":"Lucerne",
+      "url":"../assets/models/lucerne.fbx"
+    },
+    {
+      "id":"glaive",
+      "name":"Glaive",
+      "url":"../assets/models/glaive.fbx"
+    },
+    {
+      "id":"vulgarmilitiashotel",
+      "name":"Vulgar Militia Shotel",
+      "url":"../assets/models/vulgarmilitiashotel.fbx"
+    },
+    {
+      "id":"vulgarmilitiasaw",
+      "name":"Vulgar Militia Saw",
+      "url":"../assets/models/vulgarmilitiasaw.fbx"
+    },
+    {
+      "id":"guardiansswordspear",
+      "name":"Guardian's Swordspear",
+      "url":"../assets/models/guardiansswordspear.fbx"
+    },
+    {
+      "id":"gargoyleshalberd",
+      "name":"Gargoyle's Halberd",
+      "url":"../assets/models/gargoyleshalberd.fbx"
+    },
+    {
+      "id":"gargoylesblackhalberd",
+      "name":"Gargoyle's Black Halberd",
+      "url":"../assets/models/gargoyleshalberdv2.fbx"
+    },
+    {
+      "id":"nightriderglaive",
+      "name":"Nightrider Glaive",
+      "url":"../assets/models/nightriderglaive.fbx"
+    },
+    {
+      "id":"pestsglaive",
+      "name":"Pest's Glaive",
+      "url":"../assets/models/pestsglaive.fbx"
+    },
+    {
+      "id":"ripplecrescenthalberd",
+      "name":"Ripple Crescent Halberd",
+      "url":"../assets/models/ripplecrescenthalberd.fbx"
+    },
+    {
+      "id":"goldenhalberd",
+      "name":"Golden Halberd",
+      "url":"../assets/models/goldenhalberd.fbx"
+    },
+    {
+      "id":"dragonhalberd",
+      "name":"Dragon Halberd",
+      "url":"../assets/models/dragonhalberd.fbx"
+    },
+    {
+      "id":"lorettaswarsickle",
+      "name":"Loretta's War Sickle",
+      "url":"../assets/models/lorettaswarsickle.fbx"
+    },
+    {
+      "id":"commandersstandard",
+      "name":"Commander's Standard",
+      "url":"../assets/models/commandersstandard.fbx"
+    },
+    {
+      "id":"scythe",
+      "name":"Scythe",
+      "url":"../assets/models/scythe.fbx"
+    },
+    {
+      "id":"gravescythe",
+      "name":"Grave Scythe",
+      "url":"../assets/models/gravescythe.fbx"
+    },
+    {
+      "id":"haloscythe",
+      "name":"Halo Scythe",
+      "url":"../assets/models/haloscythe.fbx"
+    },
+    {
+      "id":"wingedscythe",
+      "name":"Winged Scythe",
+      "url":"../assets/models/wingedscythe.fbx"
+    },
+    {
+      "id":"whip",
+      "name":"Whip",
+      "url":"../assets/models/whip.fbx"
+    },
+    {
+      "id":"thornedwhip",
+      "name":"Thorned Whip",
+      "url":"../assets/models/thornedwhip.fbx"
+    },
+    {
+      "id":"urumi",
+      "name":"Urumi",
+      "url":"../assets/models/urumi.fbx"
+    },
+    {
+      "id":"hoslowspetalwhip",
+      "name":"Hoslow's Petal Whip",
+      "url":"../assets/models/hoslowspetalwhip.fbx"
+    },
+    {
+      "id":"magmawhipcandlestick",
+      "name":"Magma Whip Candlestick",
+      "url":"../assets/models/magmawhipcandlestick.fbx"
+    },
+    {
+      "id":"giantsredbraid",
+      "name":"Giant's Red Braid",
+      "url":"../assets/models/giantsredbraid.fbx"
+    },
+    {
+      "id":"caestus",
+      "name":"Caestus",
+      "url":"../assets/models/caestus.fbx"
+    },
+    {
+      "id":"spikedcaestus",
+      "name":"Spiked Caestus",
+      "url":"../assets/models/spikedcaestus.fbx"
+    },
+    {
+      "id":"katar",
+      "name":"Katar",
+      "url":"../assets/models/katar.fbx"
+    },
+    {
+      "id":"ironball",
+      "name":"Iron Ball",
+      "url":"../assets/models/ironball.fbx"
+    },
+    {
+      "id":"starfist",
+      "name":"Star Fist",
+      "url":"../assets/models/starfist.fbx"
+    },
+    {
+      "id":"clingingbone",
+      "name":"Clinging Bone",
+      "url":"../assets/models/clingingbone.fbx"
+    },
+    {
+      "id":"veteransprosthesis",
+      "name":"Veteran's Prosthesis",
+      "url":"../assets/models/veteransprosthesis.fbx"
+    },
+    {
+      "id":"cipherpata",
+      "name":"Cipher Pata",
+      "url":"../assets/models/cipherpata.fbx"
+    },
+    {
+      "id":"grafteddragon",
+      "name":"Grafted Dragon",
+      "url":"../assets/models/grafteddragon.fbx"
+    },
+    {
+      "id":"hookclaws",
+      "name":"Hookclaws",
+      "url":"../assets/models/hookclaws.fbx"
+    },
+    {
+      "id":"bloodhoundclaws",
+      "name":"Bloodhound Claws",
+      "url":"../assets/models/bloodhoundclaws.fbx"
+    },
+    {
+      "id":"venomousfang",
+      "name":"venomousfang",
+      "url":"../assets/models/venomousfang.fbx"
+    },
+    {
+      "id":"raptortalons",
+      "name":"Raptor Talons",
+      "url":"../assets/models/raptortalons.fbx"
+    },
+    {
+      "id":"shortbow",
+      "name":"Shortbow",
+      "url":"../assets/models/shortbow.fbx"
+    },
+    {
+      "id":"compositebow",
+      "name":"Composite Bow",
+      "url":"../assets/models/compositebow.fbx"
+    },
+    {
+      "id":"redbranchshortbow",
+      "name":"Red Branch Shortbow",
+      "url":"../assets/models/redbranchshortbow.fbx"
+    },
+    {
+      "id":"misbegottenshortbow",
+      "name":"Misbegotten Shortbow",
+      "url":"../assets/models/misbegottenshortbow.fbx"
+    },
+    {
+      "id":"harpbow",
+      "name":"Harp Bow",
+      "url":"../assets/models/harpbow.fbx"
+    },
+    {
+      "id":"longbow",
+      "name":"Longbow",
+      "url":"../assets/models/longbow.fbx"
+    },
+    {
+      "id":"albinauricbow",
+      "name":"Albinauric Bow",
+      "url":"../assets/models/albinauricbow.fbx"
+    },
+    {
+      "id":"blackbow",
+      "name":"Black Bow",
+      "url":"../assets/models/blackbow.fbx"
+    },
+    {
+      "id":"pulleybow",
+      "name":"Pulley Bow",
+      "url":"../assets/models/pulleybow.fbx"
+    },
+    {
+      "id":"hornbow",
+      "name":"Horn Bow",
+      "url":"../assets/models/hornbow.fbx"
+    },
+    {
+      "id":"serpentbow",
+      "name":"Serpent Bow",
+      "url":"../assets/models/serpentbow.fbx"
+    },
+    {
+      "id":"erdtreebow",
+      "name":"Erdtree Bow",
+      "url":"../assets/models/erdtreebow.fbx"
+    },
+    {
+      "id":"greatbow",
+      "name":"Greatbow",
+      "url":"../assets/models/greatbow.fbx"
+    },
+    {
+      "id":"golemgreatbow",
+      "name":"Golem Greatbow",
+      "url":"../assets/models/golemgreatbow.fbx"
+    },
+    {
+      "id":"liongreatbow",
+      "name":"Lion Greatbow",
+      "url":"../assets/models/liongreatbow.fbx"
+    },
+    {
+      "id":"soldierscrossbow",
+      "name":"Soldier's Crossbow",
+      "url":"../assets/models/soldierscrossbow.fbx"
+    },
+    {
+      "id":"lightcrossbow",
+      "name":"Light Crossbow",
+      "url":"../assets/models/lightcrossbow.fbx"
+    },
+    {
+      "id":"heavycrossbow",
+      "name":"Heavy Crossbow",
+      "url":"../assets/models/heavycrossbow.fbx"
+    },
+    {
+      "id":"arbalest",
+      "name":"Arbalest",
+      "url":"../assets/models/arbalest.fbx"
+    },
+    {
+      "id":"crepussblackkeycrossbow",
+      "name":"Crepus's Black-key Crossbow",
+      "url":"../assets/models/crepussblackkeycrossbow.fbx"
+    },
+    {
+      "id":"pulleycrossbow",
+      "name":"Pulley Crossbow",
+      "url":"../assets/models/pulleycrossbow.fbx"
+    },
+    {
+      "id":"fullmooncrossbow",
+      "name":"Full Moon Crossbow",
+      "url":"../assets/models/fullmooncrossbow.fbx"
+    },
+    {
+      "id":"handballista",
+      "name":"Hand Ballista",
+      "url":"../assets/models/handballista.fbx"
+    },
+    {
+      "id":"jarcannon",
+      "name":"Jar Cannon",
+      "url":"../assets/models/jarcannon.fbx"
+    },
+    {
+      "id":"astrologersstaff",
+      "name":"Astrologer's Staff",
+      "url":"../assets/models/astrologersstaff.fbx"
+    },
+    {
+      "id":"glintstonestaff",
+      "name":"Glintstone Staff",
+      "url":"../assets/models/glintstonestaff.fbx"
+    },
+    {
+      "id":"academyglintstonestaff",
+      "name":"Academy Glintstone Staff",
+      "url":"../assets/models/academyglintstonestaff.fbx"
+    },
+    {
+      "id":"carianregalscepter",
+      "name":"Carian Regal Scepter",
+      "url":"../assets/models/carianregalscepter.fbx"
+    },
+    {
+      "id":"demihumanqueensstaff",
+      "name":"Demi-Human Queen's Staff",
+      "url":"../assets/models/demihumanqueensstaff.fbx"
+    },
+    {
+      "id":"diggersstaff",
+      "name":"Digger's Staff",
+      "url":"../assets/models/diggersstaff.fbx"
+    },
+    {
+      "id":"azursglintstonestaff",
+      "name":"Azur's Glintstone Staff",
+      "url":"../assets/models/azursglintstonestaff.fbx"
+    },
+    {
+      "id":"carianglintstonestaff",
+      "name":"Carian Glintstone Staff",
+      "url":"../assets/models/carianglintstonestaff.fbx"
+    },
+    {
+      "id":"staffofloss",
+      "name":"Staff of Loss",
+      "url":"../assets/models/staffofloss.fbx"
+    },
+    {
+      "id":"meteoritestaff",
+      "name":"Meteorite Staff",
+      "url":"../assets/models/meteoritestaff.fbx"
+    },
+    {
+      "id":"lusatsglintstonestaff",
+      "name":"Lusat's Glintstone Staff",
+      "url":"../assets/models/lusatsglintstonestaff.fbx"
+    },
+    {
+      "id":"crystalstaff",
+      "name":"Crystal Staff",
+      "url":"../assets/models/crystalstaff.fbx"
+    },
+    {
+      "id":"staffoftheguilty",
+      "name":"Staff of The Guilty",
+      "url":"../assets/models/staffoftheguilty.fbx"
+    },
+    {
+      "id":"princeofdeathsstaff",
+      "name":"Prince of Death's Staff",
+      "url":"../assets/models/princeofdeathsstaff.fbx"
+    },
+    {
+      "id":"carianglintbladestaff",
+      "name":"Carian Glintblade Staff",
+      "url":"../assets/models/carianglintbladestaff.fbx"
+    },
+    {
+      "id":"rottencrystalstaff",
+      "name":"Rotten Crystal Staff",
+      "url":"../assets/models/crystalstaff.fbx"
+    },
+    {
+      "id":"gelmirglintstonestaff",
+      "name":"Gelmir Glintstone Staff",
+      "url":"../assets/models/gelmirglintstonestaff.fbx"
+    },
+    {
+      "id":"albinauricstaff",
+      "name":"Albinauric Staff",
+      "url":"../assets/models/albinauricstaff.fbx"
+    },
+    {
+      "id":"fingerseal",
+      "name":"Finger Seal",
+      "url":"../assets/models/fingerseal.fbx"
+    },
+    {
+      "id":"erdtreeseal",
+      "name":"Erdtree Seal",
+      "url":"../assets/models/erdtreeseal.fbx"
+    },
+    {
+      "id":"goldenorderseal",
+      "name":"Goldenorder Seal",
+      "url":"../assets/models/goldenorderseal.fbx"
+    },
+    {
+      "id":"gravelstoneseal",
+      "name":"Gravel Stone Seal",
+      "url":"../assets/models/gravelstoneseal.fbx"
+    },
+    {
+      "id":"giantsseal",
+      "name":"Giant's Seal",
+      "url":"../assets/models/giantsseal.fbx"
+    },
+    {
+      "id":"godslayersseal",
+      "name":"Godslayer's Seal",
+      "url":"../assets/models/godslayersseal.fbx"
+    },
+    {
+      "id":"clawmarkseal",
+      "name":"Clawmark Seal",
+      "url":"../assets/models/clawmarkseal.fbx"
+    },
+    {
+      "id":"frenziedflameseal",
+      "name":"Frenzied Flame Seal",
+      "url":"../assets/models/frenziedflameseal.fbx"
+    },
+    {
+      "id":"dragoncommunionseal",
+      "name":"Dragon Communion Seal",
+      "url":"../assets/models/dragoncommunionseal.fbx"
+    },
+    {
+      "id":"torch",
+      "name":"Torch",
+      "url":"../assets/models/torch.fbx"
+    },
+    {
+      "id":"beastrepellenttorch",
+      "name":"Beast-Repellent Torch",
+      "url":"../assets/models/torch.fbx"
+    },
+    {
+      "id":"steelwiretorch",
+      "name":"Steel-Wire Torch",
+      "url":"../assets/models/steelwiretorch.fbx"
+    },
+    {
+      "id":"sentrystorch",
+      "name":"Sentry's Torch",
+      "url":"../assets/models/sentrystorch.fbx"
+    },
+    {
+      "id":"ghostflametorch",
+      "name":"Ghostflame Torch",
+      "url":"../assets/models/ghostflametorch.fbx"
+    },
+    {
+      "id":"sttrinastorch",
+      "name":"St Trina's Torch",
+      "url":"../assets/models/sttrinastorch.fbx"
+    },
+    {
+      "id":"buckler",
+      "name":"Buckler",
+      "url":"../assets/models/buckler.fbx"
+    },
+    {
+      "id":"perfumersshield",
+      "name":"Perfumer's Shield",
+      "url":"../assets/models/perfumersshield.fbx"
+    },
+    {
+      "id":"manserpentsshield",
+      "name":"Man-Serpent's Shield",
+      "url":"../assets/models/manserpentsshield.fbx"
+    },
+    {
+      "id":"ricketyshield",
+      "name":"Rickety Shield",
+      "url":"../assets/models/ricketyshield.fbx"
+    },
+    {
+      "id":"pilloryshield",
+      "name":"Pillory Shield",
+      "url":"../assets/models/pilloryshield.fbx"
+    },
+    {
+      "id":"shieldoftheguilty",
+      "name":"Shield of The Guilty",
+      "url":"../assets/models/shieldoftheguilty.fbx"
+    },
+    {
+      "id":"redthornroundshield",
+      "name":"Red Thorn Roundshield",
+      "url":"../assets/models/redthornroundshield.fbx"
+    },
+    {
+      "id":"scripturewoodenshield",
+      "name":"Scripture Wooden Shield",
+      "url":"../assets/models/scripturewoodenshield.fbx"
+    },
+    {
+      "id":"rivetedwoodenshield",
+      "name":"Riveted Wooden Shield",
+      "url":"../assets/models/rivetedwoodenshield.fbx"
+    },
+    {
+      "id":"bluewhitewoodenshield",
+      "name":"Blue-White Wooden Shield",
+      "url":"../assets/models/bluewhitewoodenshield.fbx"
+    },
+    {
+      "id":"riftshield",
+      "name":"Rift Shield",
+      "url":"../assets/models/riftshield.fbx"
+    },
+    {
+      "id":"ironroundshield",
+      "name":"Iron Roundshield",
+      "url":"../assets/models/ironroundshield.fbx"
+    },
+    {
+      "id":"gildedironshield",
+      "name":"Gilded Iron Shield",
+      "url":"../assets/models/gildedironshield.fbx"
+    },
+    {
+      "id":"icecrestshield",
+      "name":"Ice Crest Shield",
+      "url":"../assets/models/icecrestshield.fbx"
+    },
+    {
+      "id":"smolderingshield",
+      "name":"Smoldering Shield",
+      "url":"../assets/models/smolderingshield.fbx"
+    },
+    {
+      "id":"spiralhornshield",
+      "name":"Spiralhorn Shield",
+      "url":"../assets/models/spiralhornshield.fbx"
+    },
+    {
+      "id":"coilshield",
+      "name":"Coil Shield",
+      "url":"../assets/models/coilshield.fbx"
+    },
+    {
+      "id":"kiteshield",
+      "name":"Kite Shield",
+      "url":"../assets/models/kiteshield.fbx"
+    },
+    {
+      "id":"marredleathershield",
+      "name":"Marred Leather Shield",
+      "url":"../assets/models/marredleathershield.fbx"
+    },
+    {
+      "id":"marredwoodenshield",
+      "name":"Marred Wooden Shield",
+      "url":"../assets/models/marredwoodenshield.fbx"
+    },
+    {
+      "id":"banishedknightsshield",
+      "name":"Banished Knight's Shield",
+      "url":"../assets/models/banishedknightsshield.fbx"
+    },
+    {
+      "id":"albinauricshield",
+      "name":"Albinauric Shield",
+      "url":"../assets/models/albinauricshield.fbx"
+    },
+    {
+      "id":"sunrealmshield",
+      "name":"Sun Realm Shield",
+      "url":"../assets/models/sunrealmshield.fbx"
+    },
+    {
+      "id":"silvermirrorshield",
+      "name":"Silver Mirrorshield",
+      "url":"../assets/models/silvermirrorshield.fbx"
+    },
+    {
+      "id":"roundshield",
+      "name":"Round Shield",
+      "url":"../assets/models/roundshield.fbx"
+    },
+    {
+      "id":"scorpionkiteshield",
+      "name":"Scorpion Kite Shield",
+      "url":"../assets/models/scorpionkiteshield.fbx"
+    },
+    {
+      "id":"twinbirdkiteshield",
+      "name":"Twinbird Kite Shield",
+      "url":"../assets/models/twinbirdkiteshield.fbx"
+    },
+    {
+      "id":"bluegoldkiteshield",
+      "name":"Blue-Gold Kite Shield",
+      "url":"../assets/models/bluegoldkiteshield.fbx"
+    },
+    {
+      "id":"brassshield",
+      "name":"Brass Shield",
+      "url":"../assets/models/brassshield.fbx"
+    },
+    {
+      "id":"greatturtleshell",
+      "name":"Great Turtle Shell",
+      "url":"../assets/models/greatturtleshell.fbx"
+    },
+    {
+      "id":"beastmansjarshield",
+      "name":"Beastman's Jar Shield",
+      "url":"../assets/models/beastmansjarshield.fbx"
+    },
+    {
+      "id":"carianknightsshield",
+      "name":"Carian Knight's Shield",
+      "url":"../assets/models/carianknightsshield.fbx"
+    },
+    {
+      "id":"largeleathershield",
+      "name":"Large Leather Shield",
+      "url":"../assets/models/largeleathershield.fbx"
+    },
+    {
+      "id":"horsecrestwoodenshield",
+      "name":"Horse Crest Wooden Shield",
+      "url":"../assets/models/horsecrestwoodenshield.fbx"
+    },
+    {
+      "id":"candletreewoodenshield",
+      "name":"Candletree Wooden Shield",
+      "url":"../assets/models/candletreewoodenshield.fbx"
+    },
+    {
+      "id":"flamecrestwoodenshield",
+      "name":"Flame Crest Wooden Shield",
+      "url":"../assets/models/flamecrestwoodenshield.fbx"
+    },
+    {
+      "id":"hawkcrestwoodenshield",
+      "name":"Hawk Crest Wooden Shield",
+      "url":"../assets/models/hawkcrestwoodenshield.fbx"
+    },
+    {
+      "id":"beastcrestheatershield",
+      "name":"Beast Crest Heater Shield",
+      "url":"../assets/models/beastcrestheatershield.fbx"
+    },
+    {
+      "id":"redcrestheatershield",
+      "name":"Red Crest Heater Shield",
+      "url":"../assets/models/redcrestheatershield.fbx"
+    },
+    {
+      "id":"bluecrestheatershield",
+      "name":"Blue Crest Heater Shield",
+      "url":"../assets/models/bluecrestheatershield.fbx"
+    },
+    {
+      "id":"eclipsecrestheatershield",
+      "name":"Eclipse Crest Heater Shield",
+      "url":"../assets/models/eclipsecrestheatershield.fbx"
+    },
+    {
+      "id":"invertedhawkheatershield",
+      "name":"Inverted Hawk Heater Shield",
+      "url":"../assets/models/invertedhawkheatershield.fbx"
+    },
+    {
+      "id":"heatershield",
+      "name":"Heater Shield",
+      "url":"../assets/models/heatershield.fbx"
+    },
+    {
+      "id":"blackleathershield",
+      "name":"Black Leather Shield",
+      "url":"../assets/models/blackleathershield.fbx"
+    },
+    {
+      "id":"dragontowershield",
+      "name":"Dragon Tower Shield",
+      "url":"../assets/models/dragontowershield.fbx"
+    },
+    {
+      "id":"distinguishedgreatshield",
+      "name":"Distinguished Greatshield",
+      "url":"../assets/models/distinguishedgreatshield.fbx"
+    },
+    {
+      "id":"cruciblehornshield",
+      "name":"Crucible Hornshield",
+      "url":"../assets/models/cruciblehornshield.fbx"
+    },
+    {
+      "id":"dragonclawshield",
+      "name":"Dragonclaw Shield",
+      "url":"../assets/models/dragonclawshield.fbx"
+    },
+    {
+      "id":"briargreatshield",
+      "name":"Briar Greatshield",
+      "url":"../assets/models/briargreatshield.fbx"
+    },
+    {
+      "id":"erdtreegreatshield",
+      "name":"Erdtree Greatshield",
+      "url":"../assets/models/erdtreegreatshield.fbx"
+    },
+    {
+      "id":"goldenbeastcrestshield",
+      "name":"Golden Beast Crest Shield",
+      "url":"../assets/models/goldenbeastcrestshield.fbx"
+    },
+    {
+      "id":"jellyfishshield",
+      "name":"Jellyfish Shield",
+      "url":"../assets/models/jellyfishshield.fbx"
+    },
+    {
+      "id":"fingerprintstoneshield",
+      "name":"Fingerprint Stone Shield",
+      "url":"../assets/models/fingerprintstoneshield.fbx"
+    },
+    {
+      "id":"iconshield",
+      "name":"Icon Shield",
+      "url":"../assets/models/iconshield.fbx"
+    },
+    {
+      "id":"oneeyedshield",
+      "name":"One-Eyed Shield",
+      "url":"../assets/models/oneeyedshield.fbx"
+    },
+    {
+      "id":"visageshield",
+      "name":"Visage Shield",
+      "url":"../assets/models/visageshield.fbx"
+    },
+    {
+      "id":"spikedpalisadeshield",
+      "name":"Spiked Palisade Shield",
+      "url":"../assets/models/spikedpalisadeshield.fbx"
+    },
+    {
+      "id":"manortowershield",
+      "name":"Manor Towershield",
+      "url":"../assets/models/manortowershield.fbx"
+    },
+    {
+      "id":"crossedtreetowershield",
+      "name":"Crossed-Tree Towershield",
+      "url":"../assets/models/crossedtreetowershield.fbx"
+    },
+    {
+      "id":"invertedhawktowershield",
+      "name":"Inverted Hawk Towershield",
+      "url":"../assets/models/invertedhawktowershield.fbx"
+    },
+    {
+      "id":"antsskullplate",
+      "name":"Ant's Skull Plate",
+      "url":"../assets/models/antsskullplate.fbx"
+    },
+    {
+      "id":"redmanegreatshield",
+      "name":"Redmane Greatshield",
+      "url":"../assets/models/redmanegreatshield.fbx"
+    },
+    {
+      "id":"eclipsecrestgreatshield",
+      "name":"Eclipse Crest Greatshield",
+      "url":"../assets/models/eclipsecrestgreatshield.fbx"
+    },
+    {
+      "id":"cuckoogreatshield",
+      "name":"Cuckoo Greatshield",
+      "url":"../assets/models/cuckoogreatshield.fbx"
+    },
+    {
+      "id":"goldengreatshield",
+      "name":"Golden Greatshield",
+      "url":"../assets/models/goldengreatshield.fbx"
+    },
+    {
+      "id":"gildedgreatshield",
+      "name":"Gilded Greatshield",
+      "url":"../assets/models/gildedgreatshield.fbx"
+    },
+    {
+      "id":"haligtreecrestgreatshield",
+      "name":"Haligtree Crest Greatshield",
+      "url":"../assets/models/haligtreecrestgreatshield.fbx"
+    },
+    {
+      "id":"woodengreatshield",
+      "name":"Wooden Greatshield",
+      "url":"../assets/models/woodengreatshield.fbx"
+    },
+    {
+      "id":"lordswornsshield",
+      "name":"Lordsworn's Shield",
+      "url":"../assets/models/lordswornsshield.fbx"
+    }]
+  }
