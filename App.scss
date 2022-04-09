@@ -1,0 +1,662 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css');
+@font-face {
+    font-family: "Mantinia";
+    src: url("./assets/fonts/Mantinia.ttf") format("truetype"),
+         url("./assets/fonts/Mantinia.woff") format("woff"),
+         url("./assets/fonts/Mantinia.woff2") format("woff2"),
+         url("./assets/fonts/Mantinia.eot"),
+         url("./assets/fonts/Mantinia.svg") format("svg"),
+}
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+:root{
+    --bgColor:#111110;
+}
+body{
+    background-color:var(--bgColor);
+    color:#f7f7f7;
+    font-family: "Mantinia",'Times New Roman', Times, serif;
+    user-select: none;
+}
+.erBody{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    width:100vw;
+    min-width:1500px;
+    height:100vh;
+    min-height:750px;
+    background-image: url("./assets/base/logo2.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-tap-highlight-color: transparent;
+    .title{
+        z-index: 1;
+        position:relative;
+        width:100%;
+        display:flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin:0.5rem;
+        >img{
+            min-width: 25rem;
+            width:25%;
+            opacity:0;
+            animation: fadein 500ms ease;
+            animation-fill-mode: forwards;
+            transition:200ms;
+        }
+        >h2{
+            text-transform: uppercase;
+            font-size: 2rem;
+            text-align:center;
+            letter-spacing: 0.25rem;
+            opacity:0;
+            animation: fadein 500ms ease;
+            animation-delay:750ms;
+            animation-fill-mode: forwards;
+            height:2.5rem;
+            margin-top:0.5rem;
+        }
+        .userInput{
+            text-align: center;
+            background-color:transparent;
+            border:none;
+            font-family:"Mantinia",'Times New Roman', Times, serif;
+            font-size: 2rem;
+            letter-spacing: 0.1rem;
+            color:#f7f7f7;
+            caret-color:#fdaa2d;
+            height:2.5rem;
+            width:25%;
+            margin-top:0.5rem;
+            opacity:0;
+            animation: fadein 500ms ease;
+            animation-fill-mode: forwards;
+            &:focus{
+                outline:none;
+            }
+        }
+        @keyframes fadein {
+              from{
+                  opacity:0;
+              } to{
+                  opacity:1;
+              }
+        }
+        .matchedContainer{
+            position:relative;
+            display:flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: flex-start;
+            width:25%;
+            .listBox{
+                position:absolute;
+                display:flex;
+                flex-direction: column;
+                align-items: center;
+                width:100%; 
+                max-height:50vh;
+                overflow-y:auto;
+                background-color: var(--bgColor);
+                border-bottom-left-radius: 0.5rem;
+                border-bottom-right-radius: 0.5rem;
+                &::-webkit-scrollbar{
+                    width:0.5rem;
+                }
+                &::-webkit-scrollbar-track{
+                    width:0.5rem;
+                    box-shadow:inset 0 0 5px #080808;
+                    border-bottom-left-radius: 0.5rem;
+                    border-bottom-right-radius: 0.5rem;
+                }
+                &::-webkit-scrollbar-thumb{
+                    background-color: #ababab;
+                    border-radius: 0.5rem;
+                    opacity:0.8;
+                    transition:200ms;
+                    cursor:pointer;
+                    &:hover{
+                        background-color: #f7f7f7;
+                    }
+                    &:active{
+                        background-color: #f7f7f7;
+                    }
+                }
+                >p{
+                    text-align: center;;
+                    font-size:1.5rem;
+                    width:100%;
+                    max-height: 10rem;
+                    padding-top:0.25rem;
+                    padding-bottom:0.25;
+                    color:#ababab;
+                    transition:letter-spacing 200ms, color 200ms;
+                    cursor:pointer;
+                    &:hover{
+                        letter-spacing: 0.1rem;
+                        color:#fdaa2d;
+                    }
+                    &:active{
+                        letter-spacing:0.2rem;
+                        color:#fdaa2d;
+
+                    }
+                }
+            }
+        }
+    }
+    .weaponContainer{
+        position:relative;
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        height: 0;
+        width: 65%;
+        animation: canvasAni 1s ease-out;
+        animation-delay: 2000ms;
+        animation-fill-mode: forwards;
+        background-color:#ededed0e;
+        border-radius: 1rem;
+        box-shadow: inset 0 0 15px #080808;
+        @keyframes canvasAni {
+            from{
+                height:0;
+            }to{
+                height:80%;
+            }
+        }
+        .playBtn{
+            position:absolute;
+            top:1rem;
+            right:2rem;
+            font-size: 2rem;
+            opacity:0;
+            transition: transform 250ms;
+            animation:rotateBtn 250ms;
+            cursor:pointer;
+            @keyframes rotateBtn{
+                from{
+                    transform:rotate(0deg);
+                } to{
+                    transform:rotate(360deg);
+                }
+            }
+            &:active{
+                transform:rotate(360deg);
+            }
+        }
+        .lightRange{
+            appearance: none;
+            -webkit-appearance: none;
+            position:absolute;
+            top:1.5rem;
+            left:2rem;
+            opacity:0;
+            outline:none;
+            background:#ededed0e;
+            box-shadow:inset 0 0 5px #080808;
+            height:0.5rem;
+            border-radius: 0.5rem;
+            &::-webkit-slider-thumb{
+                appearance: none;
+                -webkit-appearance: none;
+                height:1rem;
+                width:1rem;
+                background:#f7f7f7;
+                border-radius: 0.25rem;
+                cursor:pointer;
+                &:active{
+                    cursor:grabbing;
+                }
+            }
+            &::-moz-range-thumb{
+                height:1rem;
+                width:1rem;
+                background:#f7f7f7;
+                border-radius: 0.25rem;
+                &:active{
+                    cursor:grabbing;
+                }
+            }
+        }
+        .weaponCanvas{
+            height:100%;
+            width:100%;
+            display:flex;
+            align-items: center;
+            justify-content: center;
+            >canvas{
+                border-radius: 1rem;
+                display:flex;
+                align-items: center;
+                justify-content: center;
+            }
+
+        }
+        .instruction{
+            z-index:1;
+            position:absolute;
+            min-width:100%;
+            min-height:100%;
+            border-radius: 1rem;
+            display:flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            backdrop-filter: blur(10px);
+            .instructionText{
+                transition:font-size 200ms;
+                line-height: 3rem;
+                font-size: 1.75rem;
+                height:70%;
+                display:flex;
+                flex-direction: flex-start;
+                align-items: center;
+            }
+        }
+    }
+    .signature{
+        z-index:1;
+        position: absolute;
+        bottom:0;
+        font-size:0.8rem;
+        color:#111110;
+        transition: color 200ms;
+        padding:0.25rem;
+        >a{
+            text-decoration: none;
+            color:#111110;
+            transition: color 200ms;
+            &:hover{
+                color:#fdaa2d;
+            }
+        }
+        &:hover{
+            color:#f7f7f7;
+        }
+    }
+}
+
+@media (min-width: 1025px) and (max-width: 1500px) {
+    .erBody{
+        min-width:auto;
+        .title{
+            >img{
+                min-width: 25rem;
+            }
+            >h2{
+                font-size: 1.5rem;
+            }
+            .userInput{
+                width:35%;
+                font-size: 1.5rem;
+            }
+            .matchedContainer{
+                width:35%;
+                .listBox{
+                    >p{
+                        font-size:1.25rem;
+                        &:hover{
+                            letter-spacing: 0.1rem;
+                        }
+                        &:active{
+                            letter-spacing:0.15rem;
+                        }
+                    }
+                }
+            }
+        }
+        .weaponContainer{
+            width: 80%;
+            .instruction{
+                .instructionText{
+                    line-height: 3rem;
+                    font-size: 1.75rem;
+
+                }
+            }
+        }
+    }
+}
+@media (min-width: 769px) and (max-width: 1024px) {
+    .erBody{
+        min-width:auto;
+        .title{
+            >img{
+                min-width: 25rem;
+            }
+            >h2{
+                font-size: 1.5rem;
+            }
+            .userInput{
+                width:40%;
+                font-size: 1.5rem;
+            }
+            .matchedContainer{
+                width:40%;
+                .listBox{
+                    >p{
+                        font-size:1.25rem;
+                        &:hover{
+                            letter-spacing: 0.1rem;
+                        }
+                        &:active{
+                            letter-spacing:0.15rem;
+                        }
+                    }
+                }
+            }
+        }
+        .weaponContainer{
+            width: 95%;
+            .instruction{
+                .instructionText{
+                    line-height: 3rem;
+                    font-size: 1.5rem;
+
+                }
+            }
+        }
+    }
+}
+@media (min-width: 543px) and (max-width: 768px) {
+    .erBody{
+        min-width:auto;
+        .title{
+            >img{
+                min-width: 25rem;
+            }
+            >h2{
+                font-size: 1.5rem;
+            }
+            .userInput{
+                width:60%;
+                font-size: 1.5rem;
+            }
+            .matchedContainer{
+                width:60%;
+                .listBox{
+                    >p{
+                        font-size:1.25rem;
+                        &:hover{
+                            letter-spacing: 0.1rem;
+                        }
+                        &:active{
+                            letter-spacing:0.15rem;
+                        }
+                    }
+                }
+            }
+        }
+        .weaponContainer{
+            width: 95%;
+            .instruction{
+                .instructionText{
+                    line-height: 3rem;
+                    font-size: 1.35rem;
+                }
+            }
+        }
+    }
+}
+@media (max-width: 542px) {
+    .erBody{
+        min-width:auto;
+        .title{
+            >img{
+                min-width: 25rem;
+            }
+            >h2{
+                font-size: 1.5rem;
+            }
+            .userInput{
+                width:80%;
+                font-size: 1.5rem;
+            }
+            .matchedContainer{
+                width:80%;
+                .listBox{
+                    >p{
+                        font-size:1.25rem;
+                        &:hover{
+                            letter-spacing: 0.1rem;
+                        }
+                        &:active{
+                            letter-spacing:0.15rem;
+                        }
+                    }
+                }
+            }
+        }
+        .weaponContainer{
+            width: 95%;
+            .instruction{
+                .instructionText{
+                    line-height: 2.5rem;
+                    font-size: 1.15rem;
+                }
+            }
+        }
+    }
+}
+//for mobile
+@media only screen and (min-width: 769px) and (max-width: 1024px){
+    .erBody{
+        min-width:auto;
+        .title{
+            >img{
+                min-width: 25rem;
+            }
+            >h2{
+                font-size: 1.5rem;
+            }
+            .userInput{
+                width:40%;
+                font-size: 1.5rem;
+            }
+            .matchedContainer{
+                width:40%;
+                .listBox{
+                    >p{
+                        font-size:1.25rem;
+                        &:hover{
+                            letter-spacing: 0.1rem;
+                        }
+                        &:active{
+                            letter-spacing:0.15rem;
+                        }
+                    }
+                }
+            }
+        }
+        .weaponContainer{
+            width: 95%;
+            .instruction{
+                .instructionText{
+                    line-height: 3rem;
+                    font-size: 1.5rem;
+
+                }
+            }
+        }
+    }
+}
+@media only screen and (min-width: 543px) and (max-width: 768px){
+    .erBody{
+        min-width:auto;
+        .title{
+            >img{
+                min-width: 25rem;
+                width:70%;
+            }
+            >h2{
+                font-size: 1.5rem;
+            }
+            .userInput{
+
+                width:60%;
+                font-size: 1.5rem;
+            }
+            .matchedContainer{
+                width:60%;
+                .listBox{
+                    >p{
+                        font-size:1.25rem;
+                        &:hover{
+                            letter-spacing: 0.1rem;
+                        }
+                        &:active{
+                            letter-spacing:0.15rem;
+                        }
+                    }
+                }
+            }
+        }
+        .weaponContainer{
+            width: 95%;
+            .weaponContainer{
+                width: 95%;
+                .instruction{
+                    .instructionText{
+                        line-height: 3rem;
+                        font-size: 1.35rem;
+                    }
+                }
+            }
+        }
+    }
+}
+@media only screen and (min-width: 391px) and (max-width: 543px){
+    .erBody{
+        min-width:auto;
+        min-height:600px;
+        .title{
+            >img{
+                width:95%;
+                min-width:auto;
+            }
+            >h2{
+                font-size: 1.5rem;
+            }
+            .userInput{
+                width:95%;
+                font-size: 1.5rem;
+            }
+            .matchedContainer{
+                width:95%;
+                .listBox{
+                    >p{
+                        font-size:1.25rem;
+                        &:hover{
+                            letter-spacing: 0.1rem;
+                        }
+                        &:active{
+                            letter-spacing:0.15rem;
+                        }
+                    }
+                }
+            }
+        }
+        .weaponContainer{
+            width: 95%;
+            .playBtn{
+                right:1rem;
+                font-size: 1.75rem;
+            }
+            .lightRange{
+                left:1rem;
+            }
+            .instruction{
+                .instructionText{
+                    line-height: 2.5rem;
+                    font-size: 1.15rem;
+                }
+            }
+        }
+        .signature{
+            color:#f7f7f7;
+            >a{
+                color:#f7f7f7;
+                &:hover{
+                    color:#f7f7f7;
+                }
+                &:active{
+                    color:#fdaa2d;
+                }
+            }
+        }
+    }
+}
+@media only screen and (max-width: 390px){
+    .erBody{
+        min-width:auto;
+        min-height:600px;
+        .title{
+            >img{
+                width:95%;
+                min-width: auto;
+            }
+            >h2{
+                font-size: 1.5rem;
+            }
+            .userInput{
+                width:95%;
+                font-size: 1.5rem;
+            }
+            .matchedContainer{
+                width:95%;
+                .listBox{
+                    >p{
+                        font-size:1.25rem;
+                        &:hover{
+                            letter-spacing: 0.1rem;
+                        }
+                        &:active{
+                            letter-spacing:0.15rem;
+                        }
+                    }
+                }
+            }
+        }
+        .weaponContainer{
+            width: 95%;
+            .playBtn{
+                right:1rem;
+                font-size: 1.5rem;
+            }
+            .lightRange{
+                left:1rem;
+            }
+            .weaponContainer{
+                width: 95%;
+                .instruction{
+                    .instructionText{
+                        line-height: 2.5rem;
+                        font-size: 1rem;
+                    }
+                }
+            }
+        }
+        .signature{
+            color:#f7f7f7;
+            >a{
+                color:#f7f7f7;
+                &:hover{
+                    color:#f7f7f7;
+                }
+                &:active{
+                    color:#fdaa2d;
+                }
+            }
+        }
+    }
+}

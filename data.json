@@ -1,0 +1,1883 @@
+{
+    "models":[
+    {
+      "id":"dagger",
+      "name":"Dagger",
+      "url":"dagger"
+    },
+    {
+      "id":"parryingdagger",
+      "name":"Parrying Dagger",
+      "url":"parryingdagger"
+    },
+    {
+      "id":"misericorde",
+      "name":"Misericorde",
+      "url":"misericorde"
+    },
+    {
+      "id":"greatknife",
+      "name":"Great Knife",
+      "url":"greatknife"
+    },
+    {
+      "id":"bloodstaineddagger",
+      "name":"Bloodstained Dagger",
+      "url":"bloodstaineddagger"
+    },
+    {
+      "id":"erdsteeldagger",
+      "name":"Erdsteel Dagger",
+      "url":"erdsteeldagger"
+    },
+    {
+      "id":"wakizashi",
+      "name":"Wakizashi",
+      "url":"wakizashi"
+    },
+    {
+      "id":"celebrantssickle",
+      "name":"Celebrant's Sickle",
+      "url":"celebrantssickle"
+    },
+    {
+      "id":"crystalknife",
+      "name":"Crystal Knife",
+      "url":"crystalknife"
+    },
+    {
+      "id":"scorpionsstinger",
+      "name":"Scorpion's Stinger",
+      "url":"scorpionsstinger"
+    },
+    {
+      "id":"cinquedea",
+      "name":"Cinquedea",
+      "url":"cinquedea"
+    },
+    {
+      "id":"glintstonekris",
+      "name":"Glintstone Kris",
+      "url":"glintstonekris"
+    },
+    {
+      "id":"reduvia",
+      "name":"Reduvia",
+      "url":"reduvia"
+    },
+    {
+      "id":"bladeofcalling",
+      "name":"Blade of Calling",
+      "url":"bladeofcalling"
+    },
+    {
+      "id":"blackknife",
+      "name":"Black Knife",
+      "url":"blackknife"
+    },
+    {
+      "id":"shortsword",
+      "name":"Short Sword",
+      "url":"shortsword"
+    },
+    {
+      "id":"longsword",
+      "name":"Longsword",
+      "url":"longsword"
+    },
+    {
+      "id":"broadsword",
+      "name":"Broadsword",
+      "url":"broadsword"
+    },
+    {
+      "id":"weatheredstraightsword",
+      "name":"Weathered Straight Sword",
+      "url":"weatheredstraightsword"
+    },
+    {
+      "id":"lordswornsstraightsword",
+      "name":"Lordsworn's Straight Sword",
+      "url":"lordswornsstraightsword"
+    },
+    {
+      "id":"noblesslendersword",
+      "name":"Noble's Slender Sword",
+      "url":"noblesslendersword"
+    },
+    {
+      "id":"canesword",
+      "name":"Cane Sword",
+      "url":"canesword"
+    },
+    {
+      "id":"warhawkstalon",
+      "name":"Warhawk's talon",
+      "url":"warhawkstalon"
+    },
+    {
+      "id":"lazuliglintstonesword",
+      "name":"Lazuli Glintstone Sword",
+      "url":"lazuliglintstonesword"
+    },
+    {
+      "id":"carianknightssword",
+      "name":"Carian Knight's Sword",
+      "url":"carianknightssword"
+    },
+    {
+      "id":"crystalsword",
+      "name":"Crystal Sword",
+      "url":"crystalsword"
+    },
+    {
+      "id":"rottencrystalsword",
+      "name":"Rotten Crystal Sword",
+      "url":"crystalsword"
+    },
+    {
+      "id":"miquellanknightssword",
+      "name":"Miquellan Knight's Sword",
+      "url":"miquellanknightssword"
+    },
+    {
+      "id":"goldenepitaph",
+      "name":"Golden Epitaph",
+      "url":"goldenepitaph"
+    },
+    {
+      "id":"swordofsttrina",
+      "name":"Sword of St Trina",
+      "url":"swordofsttrina"
+    },
+    {
+      "id":"regaliaofeochaid",
+      "name":"Regalia of Eochaid",
+      "url":"regaliaofeochaid"
+    },
+    {
+      "id":"codedsword",
+      "name":"Coded Sword",
+      "url":"codedsword"
+    },
+    {
+      "id":"swordofnightandflame",
+      "name":"Sword of Night and Flame",
+      "url":"swordofnightandflame"
+    },
+    {
+      "id":"bastardsword",
+      "name":"Bastard Sword",
+      "url":"bastardsword"
+    },
+    {
+      "id":"claymore",
+      "name":"Claymore",
+      "url":"claymore"
+    },
+    {
+      "id":"irongreatsword",
+      "name":"Iron Greatsword",
+      "url":"irongreatsword"
+    },
+    {
+      "id":"lordswornsgreatsword",
+      "name":"Lordsworn's Greatsword",
+      "url":"lordswornsgreatsword"
+    },
+    {
+      "id":"knightsgreatsword",
+      "name":"Knight's Greatsword",
+      "url":"knightsgreatsword"
+    },
+    {
+      "id":"banishedknightsgreatsword",
+      "name":"Banished Knight's Greatsword",
+      "url":"banishedknightsgreatsword"
+    },
+    {
+      "id":"forkedgreatsword",
+      "name":"Forked Greatsword",
+      "url":"forkedgreatsword"
+    },
+    {
+      "id":"flamberge",
+      "name":"Flamberge",
+      "url":"flamberge"
+    },
+    {
+      "id":"gargoylesgreatsword",
+      "name":"Gargoyle's Greatsword",
+      "url":"gargoylesgreatsword"
+    },
+    {
+      "id":"gargoylesblackblade",
+      "name":"Gargoyle's Blackblade",
+      "url":"gargoylesgreatswordv2"
+    },
+    {
+      "id":"inseparablesword",
+      "name":"Inseparable Sword",
+      "url":"inseparablesword"
+    },
+    {
+      "id":"inseparableswordv2",
+      "name":"Inseparable Sword V2",
+      "url":"inseparableswordv2"
+    },
+    {
+      "id":"swordofmilos",
+      "name":"Sword of Milos",
+      "url":"swordofmilos"
+    },
+    {
+      "id":"maraisexecutionerssword",
+      "name":"Marais Executioner's Sword",
+      "url":"maraisexecutionerssword"
+    },
+    {
+      "id":"ordovissgreatsword",
+      "name":"Ordovis's Greatsword",
+      "url":"ordovissgreatsword"
+    },
+    {
+      "id":"alabasterlordssword",
+      "name":"Alabaster Lord's Sword",
+      "url":"alabasterlordssword"
+    },
+    {
+      "id":"deathspoker",
+      "name":"Death's Poker",
+      "url":"deathspoker"
+    },
+    {
+      "id":"helphenssteeple",
+      "name":"Helphen's Steeple",
+      "url":"helphenssteeple"
+    },
+    {
+      "id":"blasphemousblade",
+      "name":"Blasphemous Blade",
+      "url":"blasphemousblade"
+    },
+    {
+      "id":"goldenordergreatsword",
+      "name":"Golden Order Greatsword",
+      "url":"goldenordergreatsword"
+    },
+    {
+      "id":"darkmoongreatsword",
+      "name":"Dark Moon Greatsword",
+      "url":"darkmoongreatsword"
+    },
+    {
+      "id":"sacredrelicsword",
+      "name":"Sacred Relic Sword",
+      "url":"sacredrelicsword"
+    },
+    {
+      "id":"zweihander",
+      "name":"Zweihander",
+      "url":"zweihander"
+    },
+    {
+      "id":"greatsword",
+      "name":"Greatsword",
+      "url":"greatsword"
+    },
+    {
+      "id":"watchdogsgreatsword",
+      "name":"Watchdog's Greatsword",
+      "url":"watchdogsgreatsword"
+    },
+    {
+      "id":"trollsgoldensword",
+      "name":"troll's Golden Sword",
+      "url":"trollsgoldensword"
+    },
+    {
+      "id":"trollknightssword",
+      "name":"Troll Knight's Sword",
+      "url":"trollknightssword"
+    },
+    {
+      "id":"royalgreatsword",
+      "name":"Royal Greatsword",
+      "url":"royalgreatsword"
+    },
+    {
+      "id":"graftedbladegreatsword",
+      "name":"Grafted Blade Greatsword",
+      "url":"graftedbladegreatsword"
+    },
+    {
+      "id":"ruinsgreatsword",
+      "name":"Ruins Greatsword",
+      "url":"ruinsgreatsword"
+    },
+    {
+      "id":"starscourgegreatsword",
+      "name":"Starscourge Greatsword",
+      "url":"starscourgegreatsword"
+    },
+    {
+      "id":"godslayersgreatsword",
+      "name":"Godslayer's Greatsword",
+      "url":"godslayersgreatsword"
+    },
+    {
+      "id":"malikethsblackblade",
+      "name":"Maliketh's Blackblade",
+      "url":"malikethsblackblade"
+    },
+    {
+      "id":"rapier",
+      "name":"Rapier",
+      "url":"rapier"
+    },
+    {
+      "id":"estoc",
+      "name":"Estoc",
+      "url":"estoc"
+    },
+    {
+      "id":"noblesestoc",
+      "name":"Noble's Estoc",
+      "url":"noblesestoc"
+    },
+    {
+      "id":"cleanrotknightssword",
+      "name":"Cleanrot Knight's Sword",
+      "url":"cleanrotknightssword"
+    },
+    {
+      "id":"rogiersrapier",
+      "name":"Rogier's Rapier",
+      "url":"rogiersrapier"
+    },
+    {
+      "id":"antspurrapier",
+      "name":"Antspur Rapier",
+      "url":"antspurrapier"
+    },
+    {
+      "id":"frozenneedle",
+      "name":"Frozen Needle",
+      "url":"frozenneedle"
+    },
+    {
+      "id":"greatepee",
+      "name":"Great Epee",
+      "url":"greatepee"
+    },
+    {
+      "id":"godskinstitcher",
+      "name":"Godskin Stitcher",
+      "url":"godskinstitcher"
+    },
+    {
+      "id":"bloodyhelice",
+      "name":"Bloody Helice",
+      "url":"bloodyhelice"
+    },
+    {
+      "id":"dragonkingscragblade",
+      "name":"Dragonking's Cragblade",
+      "url":"dragonkingscragblade"
+    },
+    {
+      "id":"scimitar",
+      "name":"Scimitar",
+      "url":"scimitar"
+    },
+    {
+      "id":"falchion",
+      "name":"Falchion",
+      "url":"falchion"
+    },
+    {
+      "id":"shamshir",
+      "name":"Shamshir",
+      "url":"shamshir"
+    },
+    {
+      "id":"grossmesser",
+      "name":"Grossmesser",
+      "url":"grossmesser"
+    },
+    {
+      "id":"banditscurvedsword",
+      "name":"Bandit's Curved Sword",
+      "url":"banditscurvedsword"
+    },
+    {
+      "id":"shotel",
+      "name":"Shotel",
+      "url":"shotel"
+    },
+    {
+      "id":"scavengerscurvedsword",
+      "name":"Scavenger's Curved Sword",
+      "url":"scavengerscurvedsword"
+    },
+    {
+      "id":"mantisblade",
+      "name":"Mantis Blade",
+      "url":"mantisblade"
+    },
+    {
+      "id":"beastmanscurvedsword",
+      "name":"Beastman's Curved Sword",
+      "url":"beastmanscurvedsword"
+    },
+    {
+      "id":"flowingcurvedsword",
+      "name":"Flowing Curved Sword",
+      "url":"flowingcurvedsword"
+    },
+    {
+      "id":"serpentgodscurvedsword",
+      "name":"Serpent-God's Curved Sword",
+      "url":"serpentgodscurvedsword"
+    },
+    {
+      "id":"magmablade",
+      "name":"Magma Blade",
+      "url":"magmablade"
+    },
+    {
+      "id":"noxflowingsword",
+      "name":"Nox Flowing Sword",
+      "url":"noxflowingsword"
+    },
+    {
+      "id":"wingofastel",
+      "name":"Wing of Astel",
+      "url":"wingofastel"
+    },
+    {
+      "id":"eclipseshotel",
+      "name":"Eclipse Shotel",
+      "url":"eclipseshotel"
+    },
+    {
+      "id":"dismounter",
+      "name":"Dismounter",
+      "url":"dismounter"
+    },
+    {
+      "id":"omencleaver",
+      "name":"Omen Cleaver",
+      "url":"omencleaver"
+    },
+    {
+      "id":"monksflameblade",
+      "name":"Monk's Flameblade",
+      "url":"monksflameblade"
+    },
+    {
+      "id":"beastmanscleaver",
+      "name":"Beastman's Cleaver",
+      "url":"beastmanscleaver"
+    },
+    {
+      "id":"bloodhoundsfang",
+      "name":"Bloodhound's Fang",
+      "url":"bloodhoundsfang"
+    },
+    {
+      "id":"onyxlordsgreatsword",
+      "name":"Onyx Lord's Greatsword",
+      "url":"onyxlordsgreatsword"
+    },
+    {
+      "id":"zamorcurvedsword",
+      "name":"Zamor Curved Sword",
+      "url":"zamorcurvedsword"
+    },
+    {
+      "id":"magmawyrmsscalesword",
+      "name":"Magma Wyrm's Scalesword",
+      "url":"magmawyrmsscalesword"
+    },
+    {
+      "id":"morgottscursedsword",
+      "name":"Morgott's Cursed Sword",
+      "url":"morgottscursedsword"
+    },
+    {
+      "id":"uchigatana",
+      "name":"Uchigatana",
+      "url":"uchigatana"
+    },
+    {
+      "id":"nagakiba",
+      "name":"Nagakiba",
+      "url":"nagakiba"
+    },
+    {
+      "id":"serpentboneblade",
+      "name":"Serpentbone Blade",
+      "url":"serpentboneblade"
+    },
+    {
+      "id":"meteoricoreblade",
+      "name":"Meteoric Ore Blade",
+      "url":"meteoricoreblade"
+    },
+    {
+      "id":"moonveil",
+      "name":"Moonveil",
+      "url":"moonveil"
+    },
+    {
+      "id":"riversofblood",
+      "name":"Rivers of Blood",
+      "url":"riversofblood"
+    },
+    {
+      "id":"dragonscaleblade",
+      "name":"Dragon Scale Blade",
+      "url":"dragonscaleblade"
+    },
+    {
+      "id":"handofmalenia",
+      "name":"Hand of Malenia",
+      "url":"handofmalenia"
+    },
+    {
+      "id":"twinblade",
+      "name":"Twinblade",
+      "url":"twinblade"
+    },
+    {
+      "id":"twinnedknightswords",
+      "name":"Twinned Knight Swords",
+      "url":"twinnedknightswords"
+    },
+    {
+      "id":"godskinpeeler",
+      "name":"Godskin Peeler",
+      "url":"godskinpeeler"
+    },
+    {
+      "id":"gargoylestwinblade",
+      "name":"Gargoyle's Twinblade",
+      "url":"gargoylestwinblade"
+    },
+    {
+      "id":"gargoylesblackblades",
+      "name":"Gargoyle's Black Blades",
+      "url":"gargoylestwinbladev2"
+    },
+    {
+      "id":"eleonoraspoleblade",
+      "name":"Eleonora's Poleblade",
+      "url":"eleonoraspoleblade"
+    },
+    {
+      "id":"handaxe",
+      "name":"Hand Axe",
+      "url":"handaxe"
+    },
+    {
+      "id":"forkedhatchet",
+      "name":"Forked Hatchet",
+      "url":"forkedhatchet"
+    },
+    {
+      "id":"battleaxe",
+      "name":"Battle Axe",
+      "url":"battleaxe"
+    },
+    {
+      "id":"warpedaxe",
+      "name":"Warped Axe",
+      "url":"warpedaxe"
+    },
+    {
+      "id":"jawboneaxe",
+      "name":"Jawbone Axe",
+      "url":"jawboneaxe"
+    },
+    {
+      "id":"ironcleaver",
+      "name":"Iron Cleaver",
+      "url":"ironcleaver"
+    },
+    {
+      "id":"highlandaxe",
+      "name":"Highland Axe",
+      "url":"highlandaxe"
+    },
+    {
+      "id":"celebrantscleaver",
+      "name":"Celebrant's Cleaver",
+      "url":"celebrantscleaver"
+    },
+    {
+      "id":"sacrificialaxe",
+      "name":"Sacrificial Axe",
+      "url":"sacrificialaxe"
+    },
+    {
+      "id":"icerindhatchet",
+      "name":"Icerind Hatchet",
+      "url":"icerindhatchet"
+    },
+    {
+      "id":"rippleblade",
+      "name":"Ripple Blade",
+      "url":"rippleblade"
+    },
+    {
+      "id":"stormhawkaxe",
+      "name":"Stormhawk Axe",
+      "url":"stormhawkaxe"
+    },
+    {
+      "id":"rosusaxe",
+      "name":"Rosus' Axe",
+      "url":"rosusaxe"
+    },
+    {
+      "id":"greataxe",
+      "name":"Great Axe",
+      "url":"greataxe"
+    },
+    {
+      "id":"crescentmoonaxe",
+      "name":"Crescent Moon Axe",
+      "url":"crescentmoonaxe"
+    },
+    {
+      "id":"longhaftaxe",
+      "name":"Longhaft Axe",
+      "url":"longhaftaxe"
+    },
+    {
+      "id":"executionersgreataxe",
+      "name":"Executioner's Great Axe",
+      "url":"executionersgreataxe"
+    },
+    {
+      "id":"greatomenkillercleaver",
+      "name":"Great Omenkiller Cleaver",
+      "url":"greatomenkillercleaver"
+    },
+    {
+      "id":"rustedanchor",
+      "name":"Rusted Anchor",
+      "url":"rustedanchor"
+    },
+    {
+      "id":"butcheringknife",
+      "name":"Butchering Knife",
+      "url":"butcheringknife"
+    },
+    {
+      "id":"gargoylesgreataxe",
+      "name":"gargoyle's Great Axe",
+      "url":"gargoylesgreataxe"
+    },
+    {
+      "id":"gargoylesgreataxev2",
+      "name":"Gargoyle's Black Axe",
+      "url":"gargoylesgreataxev2"
+    },
+    {
+      "id":"wingedgreathorn",
+      "name":"Winged Greathorn",
+      "url":"wingedgreathorn"
+    },
+    {
+      "id":"axeofgodrick",
+      "name":"Axe of Godrick",
+      "url":"axeofgodrick"
+    },
+    {
+      "id":"club",
+      "name":"club",
+      "url":"club"
+    },
+    {
+      "id":"curvedclub",
+      "name":"Curved Club",
+      "url":"curvedclub"
+    },
+    {
+      "id":"spikedclub",
+      "name":"Spiked Club",
+      "url":"spikedclub"
+    },
+    {
+      "id":"stoneclub",
+      "name":"Stone Club",
+      "url":"stoneclub"
+    },
+    {
+      "id":"mace",
+      "name":"Mace",
+      "url":"mace"
+    },
+    {
+      "id":"morningstar",
+      "name":"Morning Star",
+      "url":"morningstar"
+    },
+    {
+      "id":"warpick",
+      "name":"Warpick",
+      "url":"warpick"
+    },
+    {
+      "id":"hammer",
+      "name":"Hammer",
+      "url":"hammer"
+    },
+    {
+      "id":"monksflamemace",
+      "name":"Monk's Flamemace",
+      "url":"monksflamemace"
+    },
+    {
+      "id":"varresbouquet",
+      "name":"Varre's Bouquet",
+      "url":"varresbouquet"
+    },
+    {
+      "id":"envoyshorn",
+      "name":"Envoy's Horn",
+      "url":"envoyshorn"
+    },
+    {
+      "id":"noxflowinghammer",
+      "name":"Nox Flowing Hammer",
+      "url":"noxflowinghammer"
+    },
+    {
+      "id":"ringedfinger",
+      "name":"Ringed Finger",
+      "url":"ringedfinger"
+    },
+    {
+      "id":"scepterofallkowing",
+      "name":"Scepter of All-Knowing",
+      "url":"scepterofallkowing"
+    },
+    {
+      "id":"marikashammer",
+      "name":"Marika's Hammer",
+      "url":"marikashammer"
+    },
+    {
+      "id":"flail",
+      "name":"Flail",
+      "url":"flail"
+    },
+    {
+      "id":"nightriderflail",
+      "name":"Nightrider Flail",
+      "url":"nightriderflail"
+    },
+    {
+      "id":"chainlinkflail",
+      "name":"Chainlink Flail",
+      "url":"chainlinkflail"
+    },
+    {
+      "id":"familyheads",
+      "name":"Family Heads",
+      "url":"familyheads"
+    },
+    {
+      "id":"bastardsstars",
+      "name":"Bastard's Stars",
+      "url":"bastardsstars"
+    },
+    {
+      "id":"largeclub",
+      "name":"Large Club",
+      "url":"largeclub"
+    },
+    {
+      "id":"curvedgreatclub",
+      "name":"Curved Great Club",
+      "url":"curvedgreatclub"
+    },
+    {
+      "id":"greatmace",
+      "name":"Great Mace",
+      "url":"greatmace"
+    },
+    {
+      "id":"pickaxe",
+      "name":"Pickaxe",
+      "url":"pickaxe"
+    },
+    {
+      "id":"brickhammer",
+      "name":"Brick Hammer",
+      "url":"brickhammer"
+    },
+    {
+      "id":"battlehammer",
+      "name":"Battle Hammer",
+      "url":"battlehammer"
+    },
+    {
+      "id":"rottenbattlehammer",
+      "name":"Rotten Battle Hammer",
+      "url":"battlehammerv2"
+    },
+    {
+      "id":"celebrantsskull",
+      "name":"Celebrant's Skull",
+      "url":"celebrantsskull"
+    },
+    {
+      "id":"greatstars",
+      "name":"Great Stars",
+      "url":"greatstars"
+    },
+    {
+      "id":"greathornhammer",
+      "name":"Greathorn Hammer",
+      "url":"greathornhammer"
+    },
+    {
+      "id":"envoyslonghorn",
+      "name":"Envoy's Longhorn",
+      "url":"envoyslonghorn"
+    },
+    {
+      "id":"cranialvesselcandlestand",
+      "name":"Cranial Vessel Candlestand",
+      "url":"cranialvesselcandlestand"
+    },
+    {
+      "id":"beastclawgreathammer",
+      "name":"Beastclaw Greathammer",
+      "url":"beastclawgreathammer"
+    },
+    {
+      "id":"devourersscepter",
+      "name":"Devourer's Scepter",
+      "url":"devourersscepter"
+    },
+    {
+      "id":"duelistgreataxe",
+      "name":"Duelist Greataxe",
+      "url":"duelistgreataxe"
+    },
+    {
+      "id":"rottengreataxe",
+      "name":"Rotten GreatAxe",
+      "url":"duelistgreataxev2"
+    },
+    {
+      "id":"golemshalberd",
+      "name":"Golem's Halberd",
+      "url":"golemshalberd"
+    },
+    {
+      "id":"giantcrusher",
+      "name":"Giant Crusher",
+      "url":"giantcrusher"
+    },
+    {
+      "id":"prelatesinfernocrozier",
+      "name":"Prelate's Inferno Crozier",
+      "url":"prelatesinfernocrozier"
+    },
+    {
+      "id":"greatclub",
+      "name":"Great Club",
+      "url":"greatclub"
+    },
+    {
+      "id":"trollshammer",
+      "name":"Troll's Hammer",
+      "url":"trollshammer"
+    },
+    {
+      "id":"dragongreatclaw",
+      "name":"Dragon Greatclaw",
+      "url":"dragongreatclaw"
+    },
+    {
+      "id":"watchdogsstaff",
+      "name":"Watchdog's Staff",
+      "url":"watchdogsstaff"
+    },
+    {
+      "id":"staffoftheavatar",
+      "name":"Staff of The Avatar",
+      "url":"staffoftheavatar"
+    },
+    {
+      "id":"rottenstaff",
+      "name":"Rotten Staff",
+      "url":"rottenstaff"
+    },
+    {
+      "id":"envoysgreathorn",
+      "name":"Envoy's Greathorn",
+      "url":"envoysgreathorn"
+    },
+    {
+      "id":"ghizaswheel",
+      "name":"Ghiza's Wheel",
+      "url":"ghizaswheel"
+    },
+    {
+      "id":"fallingstarbeastjaw",
+      "name":"Fallingstar Beast Jaw",
+      "url":"fallingstarbeastjaw"
+    },
+    {
+      "id":"axeofgodfrey",
+      "name":"Axe of Godfrey",
+      "url":"axeofgodfrey"
+    },
+    {
+      "id":"shortspear",
+      "name":"Short Spear",
+      "url":"shortspear"
+    },
+    {
+      "id":"ironspear",
+      "name":"Iron Spear",
+      "url":"ironspear"
+    },
+    {
+      "id":"spear",
+      "name":"Spear",
+      "url":"spear"
+    },
+    {
+      "id":"partisan",
+      "name":"Partisan",
+      "url":"partisan"
+    },
+    {
+      "id":"pike",
+      "name":"Pike",
+      "url":"pike"
+    },
+    {
+      "id":"spikedspear",
+      "name":"Spiked Spear",
+      "url":"spikedspear"
+    },
+    {
+      "id":"crossnaginata",
+      "name":"Cross-Naginata",
+      "url":"crossnaginata"
+    },
+    {
+      "id":"claymansharpoon",
+      "name":"Clayman's Harpoon",
+      "url":"claymansharpoon"
+    },
+    {
+      "id":"celebrantsribrake",
+      "name":"Celebrant's Rib-Rake",
+      "url":"celebrantsribrake"
+    },
+    {
+      "id":"torchpole",
+      "name":"Torchpole",
+      "url":"torchpole"
+    },
+    {
+      "id":"inquisitorsgirandole",
+      "name":"Inquisitor's Girandole",
+      "url":"inquisitorsgirandole"
+    },
+    {
+      "id":"crystalspear",
+      "name":"Crystal Spear",
+      "url":"crystalspear"
+    },
+    {
+      "id":"rottencrystalspear",
+      "name":"Rotten Crystal Spear",
+      "url":"crystalspear"
+    },
+    {
+      "id":"cleanrotspear",
+      "name":"Cleanrot Spear",
+      "url":"cleanrotspear"
+    },
+    {
+      "id":"deathritualspear",
+      "name":"Death Ritual Spear",
+      "url":"deathritualspear"
+    },
+    {
+      "id":"boltofgransax",
+      "name":"Bolt of Gransax",
+      "url":"boltofgransax"
+    },
+    {
+      "id":"wingedspear",
+      "name":"Winged Spear",
+      "url":"wingedspear"
+    },
+    {
+      "id":"lance",
+      "name":"Lance",
+      "url":"lance"
+    },
+    {
+      "id":"treespear",
+      "name":"Treespear",
+      "url":"treespear"
+    },
+    {
+      "id":"serpenthunter",
+      "name":"Serpent-Hunter",
+      "url":"serpenthunter"
+    },
+    {
+      "id":"siluriastree",
+      "name":"Siluria's Tree",
+      "url":"siluriastree"
+    },
+    {
+      "id":"vykeswarspear",
+      "name":"Vyke's War Spear",
+      "url":"vykeswarspear"
+    },
+    {
+      "id":"mohgwynssacredspear",
+      "name":"Mohgwyn's Sacred Spear",
+      "url":"mohgwynssacredspear"
+    },
+    {
+      "id":"halberd",
+      "name":"Halberd",
+      "url":"halberd"
+    },
+    {
+      "id":"banishedknightshalberd",
+      "name":"Banished Knight's Halberd",
+      "url":"banishedknightshalberd"
+    },
+    {
+      "id":"lucerne",
+      "name":"Lucerne",
+      "url":"lucerne"
+    },
+    {
+      "id":"glaive",
+      "name":"Glaive",
+      "url":"glaive"
+    },
+    {
+      "id":"vulgarmilitiashotel",
+      "name":"Vulgar Militia Shotel",
+      "url":"vulgarmilitiashotel"
+    },
+    {
+      "id":"vulgarmilitiasaw",
+      "name":"Vulgar Militia Saw",
+      "url":"vulgarmilitiasaw"
+    },
+    {
+      "id":"guardiansswordspear",
+      "name":"Guardian's Swordspear",
+      "url":"guardiansswordspear"
+    },
+    {
+      "id":"gargoyleshalberd",
+      "name":"Gargoyle's Halberd",
+      "url":"gargoyleshalberd"
+    },
+    {
+      "id":"gargoylesblackhalberd",
+      "name":"Gargoyle's Black Halberd",
+      "url":"gargoyleshalberdv2"
+    },
+    {
+      "id":"nightriderglaive",
+      "name":"Nightrider Glaive",
+      "url":"nightriderglaive"
+    },
+    {
+      "id":"pestsglaive",
+      "name":"Pest's Glaive",
+      "url":"pestsglaive"
+    },
+    {
+      "id":"ripplecrescenthalberd",
+      "name":"Ripple Crescent Halberd",
+      "url":"ripplecrescenthalberd"
+    },
+    {
+      "id":"goldenhalberd",
+      "name":"Golden Halberd",
+      "url":"goldenhalberd"
+    },
+    {
+      "id":"dragonhalberd",
+      "name":"Dragon Halberd",
+      "url":"dragonhalberd"
+    },
+    {
+      "id":"lorettaswarsickle",
+      "name":"Loretta's War Sickle",
+      "url":"lorettaswarsickle"
+    },
+    {
+      "id":"commandersstandard",
+      "name":"Commander's Standard",
+      "url":"commandersstandard"
+    },
+    {
+      "id":"scythe",
+      "name":"Scythe",
+      "url":"scythe"
+    },
+    {
+      "id":"gravescythe",
+      "name":"Grave Scythe",
+      "url":"gravescythe"
+    },
+    {
+      "id":"haloscythe",
+      "name":"Halo Scythe",
+      "url":"haloscythe"
+    },
+    {
+      "id":"wingedscythe",
+      "name":"Winged Scythe",
+      "url":"wingedscythe"
+    },
+    {
+      "id":"whip",
+      "name":"Whip",
+      "url":"whip"
+    },
+    {
+      "id":"thornedwhip",
+      "name":"Thorned Whip",
+      "url":"thornedwhip"
+    },
+    {
+      "id":"urumi",
+      "name":"Urumi",
+      "url":"urumi"
+    },
+    {
+      "id":"hoslowspetalwhip",
+      "name":"Hoslow's Petal Whip",
+      "url":"hoslowspetalwhip"
+    },
+    {
+      "id":"magmawhipcandlestick",
+      "name":"Magma Whip Candlestick",
+      "url":"magmawhipcandlestick"
+    },
+    {
+      "id":"giantsredbraid",
+      "name":"Giant's Red Braid",
+      "url":"giantsredbraid"
+    },
+    {
+      "id":"caestus",
+      "name":"Caestus",
+      "url":"caestus"
+    },
+    {
+      "id":"spikedcaestus",
+      "name":"Spiked Caestus",
+      "url":"spikedcaestus"
+    },
+    {
+      "id":"katar",
+      "name":"Katar",
+      "url":"katar"
+    },
+    {
+      "id":"ironball",
+      "name":"Iron Ball",
+      "url":"ironball"
+    },
+    {
+      "id":"starfist",
+      "name":"Star Fist",
+      "url":"starfist"
+    },
+    {
+      "id":"clingingbone",
+      "name":"Clinging Bone",
+      "url":"clingingbone"
+    },
+    {
+      "id":"veteransprosthesis",
+      "name":"Veteran's Prosthesis",
+      "url":"veteransprosthesis"
+    },
+    {
+      "id":"cipherpata",
+      "name":"Cipher Pata",
+      "url":"cipherpata"
+    },
+    {
+      "id":"grafteddragon",
+      "name":"Grafted Dragon",
+      "url":"grafteddragon"
+    },
+    {
+      "id":"hookclaws",
+      "name":"Hookclaws",
+      "url":"hookclaws"
+    },
+    {
+      "id":"bloodhoundclaws",
+      "name":"Bloodhound Claws",
+      "url":"bloodhoundclaws"
+    },
+    {
+      "id":"venomousfang",
+      "name":"Venomous Fang",
+      "url":"venomousfang"
+    },
+    {
+      "id":"raptortalons",
+      "name":"Raptor Talons",
+      "url":"raptortalons"
+    },
+    {
+      "id":"shortbow",
+      "name":"Shortbow",
+      "url":"shortbow"
+    },
+    {
+      "id":"compositebow",
+      "name":"Composite Bow",
+      "url":"compositebow"
+    },
+    {
+      "id":"redbranchshortbow",
+      "name":"Red Branch Shortbow",
+      "url":"redbranchshortbow"
+    },
+    {
+      "id":"misbegottenshortbow",
+      "name":"Misbegotten Shortbow",
+      "url":"misbegottenshortbow"
+    },
+    {
+      "id":"harpbow",
+      "name":"Harp Bow",
+      "url":"harpbow"
+    },
+    {
+      "id":"longbow",
+      "name":"Longbow",
+      "url":"longbow"
+    },
+    {
+      "id":"albinauricbow",
+      "name":"Albinauric Bow",
+      "url":"albinauricbow"
+    },
+    {
+      "id":"blackbow",
+      "name":"Black Bow",
+      "url":"blackbow"
+    },
+    {
+      "id":"pulleybow",
+      "name":"Pulley Bow",
+      "url":"pulleybow"
+    },
+    {
+      "id":"hornbow",
+      "name":"Horn Bow",
+      "url":"hornbow"
+    },
+    {
+      "id":"serpentbow",
+      "name":"Serpent Bow",
+      "url":"serpentbow"
+    },
+    {
+      "id":"erdtreebow",
+      "name":"Erdtree Bow",
+      "url":"erdtreebow"
+    },
+    {
+      "id":"greatbow",
+      "name":"Greatbow",
+      "url":"greatbow"
+    },
+    {
+      "id":"golemgreatbow",
+      "name":"Golem Greatbow",
+      "url":"golemgreatbow"
+    },
+    {
+      "id":"liongreatbow",
+      "name":"Lion Greatbow",
+      "url":"liongreatbow"
+    },
+    {
+      "id":"soldierscrossbow",
+      "name":"Soldier's Crossbow",
+      "url":"soldierscrossbow"
+    },
+    {
+      "id":"lightcrossbow",
+      "name":"Light Crossbow",
+      "url":"lightcrossbow"
+    },
+    {
+      "id":"heavycrossbow",
+      "name":"Heavy Crossbow",
+      "url":"heavycrossbow"
+    },
+    {
+      "id":"arbalest",
+      "name":"Arbalest",
+      "url":"arbalest"
+    },
+    {
+      "id":"crepussblackkeycrossbow",
+      "name":"Crepus's Black-key Crossbow",
+      "url":"crepussblackkeycrossbow"
+    },
+    {
+      "id":"pulleycrossbow",
+      "name":"Pulley Crossbow",
+      "url":"pulleycrossbow"
+    },
+    {
+      "id":"fullmooncrossbow",
+      "name":"Full Moon Crossbow",
+      "url":"fullmooncrossbow"
+    },
+    {
+      "id":"handballista",
+      "name":"Hand Ballista",
+      "url":"handballista"
+    },
+    {
+      "id":"jarcannon",
+      "name":"Jar Cannon",
+      "url":"jarcannon"
+    },
+    {
+      "id":"astrologersstaff",
+      "name":"Astrologer's Staff",
+      "url":"astrologersstaff"
+    },
+    {
+      "id":"glintstonestaff",
+      "name":"Glintstone Staff",
+      "url":"glintstonestaff"
+    },
+    {
+      "id":"academyglintstonestaff",
+      "name":"Academy Glintstone Staff",
+      "url":"academyglintstonestaff"
+    },
+    {
+      "id":"carianregalscepter",
+      "name":"Carian Regal Scepter",
+      "url":"carianregalscepter"
+    },
+    {
+      "id":"demihumanqueensstaff",
+      "name":"Demi-Human Queen's Staff",
+      "url":"demihumanqueensstaff"
+    },
+    {
+      "id":"diggersstaff",
+      "name":"Digger's Staff",
+      "url":"diggersstaff"
+    },
+    {
+      "id":"azursglintstonestaff",
+      "name":"Azur's Glintstone Staff",
+      "url":"azursglintstonestaff"
+    },
+    {
+      "id":"carianglintstonestaff",
+      "name":"Carian Glintstone Staff",
+      "url":"carianglintstonestaff"
+    },
+    {
+      "id":"staffofloss",
+      "name":"Staff of Loss",
+      "url":"staffofloss"
+    },
+    {
+      "id":"meteoritestaff",
+      "name":"Meteorite Staff",
+      "url":"meteoritestaff"
+    },
+    {
+      "id":"lusatsglintstonestaff",
+      "name":"Lusat's Glintstone Staff",
+      "url":"lusatsglintstonestaff"
+    },
+    {
+      "id":"crystalstaff",
+      "name":"Crystal Staff",
+      "url":"crystalstaff"
+    },
+    {
+      "id":"staffoftheguilty",
+      "name":"Staff of The Guilty",
+      "url":"staffoftheguilty"
+    },
+    {
+      "id":"princeofdeathsstaff",
+      "name":"Prince of Death's Staff",
+      "url":"princeofdeathsstaff"
+    },
+    {
+      "id":"carianglintbladestaff",
+      "name":"Carian Glintblade Staff",
+      "url":"carianglintbladestaff"
+    },
+    {
+      "id":"rottencrystalstaff",
+      "name":"Rotten Crystal Staff",
+      "url":"crystalstaff"
+    },
+    {
+      "id":"gelmirglintstonestaff",
+      "name":"Gelmir Glintstone Staff",
+      "url":"gelmirglintstonestaff"
+    },
+    {
+      "id":"albinauricstaff",
+      "name":"Albinauric Staff",
+      "url":"albinauricstaff"
+    },
+    {
+      "id":"fingerseal",
+      "name":"Finger Seal",
+      "url":"fingerseal"
+    },
+    {
+      "id":"erdtreeseal",
+      "name":"Erdtree Seal",
+      "url":"dio"
+    },
+    {
+      "id":"goldenorderseal",
+      "name":"Golden Order Seal",
+      "url":"dio"
+    },
+    {
+      "id":"gravelstoneseal",
+      "name":"Gravel Stone Seal",
+      "url":"gravelstoneseal"
+    },
+    {
+      "id":"giantsseal",
+      "name":"Giant's Seal",
+      "url":"giantsseal"
+    },
+    {
+      "id":"godslayersseal",
+      "name":"Godslayer's Seal",
+      "url":"godslayersseal"
+    },
+    {
+      "id":"clawmarkseal",
+      "name":"Clawmark Seal",
+      "url":"clawmarkseal"
+    },
+    {
+      "id":"frenziedflameseal",
+      "name":"Frenzied Flame Seal",
+      "url":"dio"
+    },
+    {
+      "id":"dragoncommunionseal",
+      "name":"Dragon Communion Seal",
+      "url":"dio"
+    },
+    {
+      "id":"torch",
+      "name":"Torch",
+      "url":"torch"
+    },
+    {
+      "id":"beastrepellenttorch",
+      "name":"Beast-Repellent Torch",
+      "url":"torch"
+    },
+    {
+      "id":"steelwiretorch",
+      "name":"Steel-Wire Torch",
+      "url":"steelwiretorch"
+    },
+    {
+      "id":"sentrystorch",
+      "name":"Sentry's Torch",
+      "url":"sentrystorch"
+    },
+    {
+      "id":"ghostflametorch",
+      "name":"Ghostflame Torch",
+      "url":"ghostflametorch"
+    },
+    {
+      "id":"sttrinastorch",
+      "name":"St Trina's Torch",
+      "url":"sttrinastorch"
+    },
+    {
+      "id":"buckler",
+      "name":"Buckler",
+      "url":"buckler"
+    },
+    {
+      "id":"perfumersshield",
+      "name":"Perfumer's Shield",
+      "url":"perfumersshield"
+    },
+    {
+      "id":"manserpentsshield",
+      "name":"Man-Serpent's Shield",
+      "url":"manserpentsshield"
+    },
+    {
+      "id":"ricketyshield",
+      "name":"Rickety Shield",
+      "url":"ricketyshield"
+    },
+    {
+      "id":"pilloryshield",
+      "name":"Pillory Shield",
+      "url":"pilloryshield"
+    },
+    {
+      "id":"shieldoftheguilty",
+      "name":"Shield of The Guilty",
+      "url":"shieldoftheguilty"
+    },
+    {
+      "id":"redthornroundshield",
+      "name":"Red Thorn Roundshield",
+      "url":"redthornroundshield"
+    },
+    {
+      "id":"scripturewoodenshield",
+      "name":"Scripture Wooden Shield",
+      "url":"scripturewoodenshield"
+    },
+    {
+      "id":"rivetedwoodenshield",
+      "name":"Riveted Wooden Shield",
+      "url":"rivetedwoodenshield"
+    },
+    {
+      "id":"bluewhitewoodenshield",
+      "name":"Blue-White Wooden Shield",
+      "url":"bluewhitewoodenshield"
+    },
+    {
+      "id":"riftshield",
+      "name":"Rift Shield",
+      "url":"riftshield"
+    },
+    {
+      "id":"ironroundshield",
+      "name":"Iron Roundshield",
+      "url":"ironroundshield"
+    },
+    {
+      "id":"gildedironshield",
+      "name":"Gilded Iron Shield",
+      "url":"gildedironshield"
+    },
+    {
+      "id":"icecrestshield",
+      "name":"Ice Crest Shield",
+      "url":"icecrestshield"
+    },
+    {
+      "id":"smolderingshield",
+      "name":"Smoldering Shield",
+      "url":"smolderingshield"
+    },
+    {
+      "id":"spiralhornshield",
+      "name":"Spiralhorn Shield",
+      "url":"spiralhornshield"
+    },
+    {
+      "id":"coilshield",
+      "name":"Coil Shield",
+      "url":"coilshield"
+    },
+    {
+      "id":"kiteshield",
+      "name":"Kite Shield",
+      "url":"kiteshield"
+    },
+    {
+      "id":"marredleathershield",
+      "name":"Marred Leather Shield",
+      "url":"marredleathershield"
+    },
+    {
+      "id":"marredwoodenshield",
+      "name":"Marred Wooden Shield",
+      "url":"marredwoodenshield"
+    },
+    {
+      "id":"banishedknightsshield",
+      "name":"Banished Knight's Shield",
+      "url":"banishedknightsshield"
+    },
+    {
+      "id":"albinauricshield",
+      "name":"Albinauric Shield",
+      "url":"albinauricshield"
+    },
+    {
+      "id":"sunrealmshield",
+      "name":"Sun Realm Shield",
+      "url":"sunrealmshield"
+    },
+    {
+      "id":"silvermirrorshield",
+      "name":"Silver Mirrorshield",
+      "url":"silvermirrorshield"
+    },
+    {
+      "id":"roundshield",
+      "name":"Round Shield",
+      "url":"roundshield"
+    },
+    {
+      "id":"scorpionkiteshield",
+      "name":"Scorpion Kite Shield",
+      "url":"scorpionkiteshield"
+    },
+    {
+      "id":"twinbirdkiteshield",
+      "name":"Twinbird Kite Shield",
+      "url":"twinbirdkiteshield"
+    },
+    {
+      "id":"bluegoldkiteshield",
+      "name":"Blue-Gold Kite Shield",
+      "url":"bluegoldkiteshield"
+    },
+    {
+      "id":"brassshield",
+      "name":"Brass Shield",
+      "url":"brassshield"
+    },
+    {
+      "id":"greatturtleshell",
+      "name":"Great Turtle Shell",
+      "url":"greatturtleshell"
+    },
+    {
+      "id":"beastmansjarshield",
+      "name":"Beastman's Jar Shield",
+      "url":"beastmansjarshield"
+    },
+    {
+      "id":"carianknightsshield",
+      "name":"Carian Knight's Shield",
+      "url":"carianknightsshield"
+    },
+    {
+      "id":"largeleathershield",
+      "name":"Large Leather Shield",
+      "url":"largeleathershield"
+    },
+    {
+      "id":"horsecrestwoodenshield",
+      "name":"Horse Crest Wooden Shield",
+      "url":"horsecrestwoodenshield"
+    },
+    {
+      "id":"candletreewoodenshield",
+      "name":"Candletree Wooden Shield",
+      "url":"candletreewoodenshield"
+    },
+    {
+      "id":"flamecrestwoodenshield",
+      "name":"Flame Crest Wooden Shield",
+      "url":"flamecrestwoodenshield"
+    },
+    {
+      "id":"hawkcrestwoodenshield",
+      "name":"Hawk Crest Wooden Shield",
+      "url":"hawkcrestwoodenshield"
+    },
+    {
+      "id":"beastcrestheatershield",
+      "name":"Beast Crest Heater Shield",
+      "url":"beastcrestheatershield"
+    },
+    {
+      "id":"redcrestheatershield",
+      "name":"Red Crest Heater Shield",
+      "url":"redcrestheatershield"
+    },
+    {
+      "id":"bluecrestheatershield",
+      "name":"Blue Crest Heater Shield",
+      "url":"bluecrestheatershield"
+    },
+    {
+      "id":"eclipsecrestheatershield",
+      "name":"Eclipse Crest Heater Shield",
+      "url":"eclipsecrestheatershield"
+    },
+    {
+      "id":"invertedhawkheatershield",
+      "name":"Inverted Hawk Heater Shield",
+      "url":"invertedhawkheatershield"
+    },
+    {
+      "id":"heatershield",
+      "name":"Heater Shield",
+      "url":"heatershield"
+    },
+    {
+      "id":"blackleathershield",
+      "name":"Black Leather Shield",
+      "url":"blackleathershield"
+    },
+    {
+      "id":"dragontowershield",
+      "name":"Dragon Tower Shield",
+      "url":"dragontowershield"
+    },
+    {
+      "id":"distinguishedgreatshield",
+      "name":"Distinguished Greatshield",
+      "url":"distinguishedgreatshield"
+    },
+    {
+      "id":"cruciblehornshield",
+      "name":"Crucible Hornshield",
+      "url":"cruciblehornshield"
+    },
+    {
+      "id":"dragonclawshield",
+      "name":"Dragonclaw Shield",
+      "url":"dragonclawshield"
+    },
+    {
+      "id":"briargreatshield",
+      "name":"Briar Greatshield",
+      "url":"briargreatshield"
+    },
+    {
+      "id":"erdtreegreatshield",
+      "name":"Erdtree Greatshield",
+      "url":"erdtreegreatshield"
+    },
+    {
+      "id":"goldenbeastcrestshield",
+      "name":"Golden Beast Crest Shield",
+      "url":"goldenbeastcrestshield"
+    },
+    {
+      "id":"jellyfishshield",
+      "name":"Jellyfish Shield",
+      "url":"jellyfishshield"
+    },
+    {
+      "id":"fingerprintstoneshield",
+      "name":"Fingerprint Stone Shield",
+      "url":"fingerprintstoneshield"
+    },
+    {
+      "id":"iconshield",
+      "name":"Icon Shield",
+      "url":"iconshield"
+    },
+    {
+      "id":"oneeyedshield",
+      "name":"One-Eyed Shield",
+      "url":"oneeyedshield"
+    },
+    {
+      "id":"visageshield",
+      "name":"Visage Shield",
+      "url":"visageshield"
+    },
+    {
+      "id":"spikedpalisadeshield",
+      "name":"Spiked Palisade Shield",
+      "url":"spikedpalisadeshield"
+    },
+    {
+      "id":"manortowershield",
+      "name":"Manor Towershield",
+      "url":"manortowershield"
+    },
+    {
+      "id":"crossedtreetowershield",
+      "name":"Crossed-Tree Towershield",
+      "url":"crossedtreetowershield"
+    },
+    {
+      "id":"invertedhawktowershield",
+      "name":"Inverted Hawk Towershield",
+      "url":"invertedhawktowershield"
+    },
+    {
+      "id":"antsskullplate",
+      "name":"Ant's Skull Plate",
+      "url":"antsskullplate"
+    },
+    {
+      "id":"redmanegreatshield",
+      "name":"Redmane Greatshield",
+      "url":"redmanegreatshield"
+    },
+    {
+      "id":"eclipsecrestgreatshield",
+      "name":"Eclipse Crest Greatshield",
+      "url":"eclipsecrestgreatshield"
+    },
+    {
+      "id":"cuckoogreatshield",
+      "name":"Cuckoo Greatshield",
+      "url":"cuckoogreatshield"
+    },
+    {
+      "id":"goldengreatshield",
+      "name":"Golden Greatshield",
+      "url":"goldengreatshield"
+    },
+    {
+      "id":"gildedgreatshield",
+      "name":"Gilded Greatshield",
+      "url":"gildedgreatshield"
+    },
+    {
+      "id":"haligtreecrestgreatshield",
+      "name":"Haligtree Crest Greatshield",
+      "url":"haligtreecrestgreatshield"
+    },
+    {
+      "id":"woodengreatshield",
+      "name":"Wooden Greatshield",
+      "url":"woodengreatshield"
+    },
+    {
+      "id":"lordswornsshield",
+      "name":"Lordsworn's Shield",
+      "url":"lordswornsshield"
+    }]
+  }
